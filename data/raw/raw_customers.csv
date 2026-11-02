@@ -1,0 +1,1201 @@
+customer_id,customer_name,country,city,segment,signup_date
+CUST-00001,Customer_1,Colombia,Bogotá,Corporate,2023-09-08
+CUST-00002,Customer_2,México,Guadalajara,Corporate,2024-07-12
+CUST-00003,Customer_3,Colombia,Barranquilla,Consumer,2023-04-06
+CUST-00004,Customer_4,México,Guadalajara,Consumer,2023-01-28
+CUST-00005,Customer_5,Argentina,Buenos Aires,Corporate,2024-07-12
+CUST-00006,Customer_6,Perú,Lima,Consumer,2023-10-12
+CUST-00007,Customer_7,Colombia,Medellín,Corporate,2023-12-15
+CUST-00008,Customer_8,Chile,Santiago,Consumer,2023-12-11
+CUST-00009,Customer_9,Colombia,Bogotá,Consumer,2024-01-03
+CUST-00010,Customer_10,Chile,Concepción,Consumer,2023-02-14
+CUST-00011,Customer_11,Perú,Trujillo,Consumer,2024-01-23
+CUST-00012,Customer_12,Colombia,Cali,Corporate,2024-09-25
+CUST-00013,Customer_13,Chile,Concepción,Consumer,2023-03-13
+CUST-00014,Customer_14,Colombia,Medellín,Corporate,2023-03-23
+CUST-00015,Customer_15,México,Ciudad de México,Consumer,2024-04-09
+CUST-00016,Customer_16,Chile,Santiago,Consumer,2023-08-03
+CUST-00017,Customer_17,Chile,Concepción,Home Office,2024-10-25
+CUST-00018,Customer_18,Colombia,Medellín,Consumer,2023-09-08
+CUST-00019,Customer_19,México,Puebla,Consumer,2024-10-17
+CUST-00020,Customer_20,Argentina,Buenos Aires,Corporate,2023-02-27
+CUST-00021,Customer_21,México,Ciudad de México,Corporate,2024-02-15
+CUST-00022,Customer_22,Chile,Santiago,Consumer,2024-08-03
+CUST-00023,Customer_23,Chile,Santiago,Corporate,2024-02-10
+CUST-00024,Customer_24,Perú,Lima,Consumer,2023-09-10
+CUST-00025,Customer_25,Argentina,Rosario,Consumer,2024-08-21
+CUST-00026,Customer_26,Perú,Trujillo,Consumer,2023-08-13
+CUST-00027,Customer_27,México,Puebla,Consumer,2023-02-18
+CUST-00028,Customer_28,Colombia,Medellín,Consumer,2024-03-08
+CUST-00029,Customer_29,Argentina,Buenos Aires,Consumer,2024-09-02
+CUST-00030,Customer_30,Perú,Trujillo,Consumer,2024-07-20
+CUST-00031,Customer_31,Colombia,Bogotá,Corporate,2024-07-03
+CUST-00032,Customer_32,Chile,Concepción,Consumer,2023-10-28
+CUST-00033,Customer_33,Perú,Lima,Consumer,2023-09-27
+CUST-00034,Customer_34,Argentina,Buenos Aires,Consumer,2023-04-19
+CUST-00035,Customer_35,Chile,Concepción,Consumer,2023-07-23
+CUST-00036,Customer_36,México,Monterrey,Corporate,2024-07-06
+CUST-00037,Customer_37,Argentina,Buenos Aires,Consumer,2024-05-15
+CUST-00038,Customer_38,Colombia,Bogotá,Home Office,2023-11-11
+CUST-00039,Customer_39,México,Ciudad de México,Consumer,2024-08-03
+CUST-00040,Customer_40,Colombia,Bogotá,Corporate,2023-03-12
+CUST-00041,Customer_41,Argentina,Buenos Aires,Consumer,2024-05-01
+CUST-00042,Customer_42,Argentina,Buenos Aires,Consumer,2024-09-13
+CUST-00043,Customer_43,Perú,Lima,Home Office,2023-07-25
+CUST-00044,Customer_44,Chile,Valparaíso,Home Office,2024-10-27
+CUST-00045,Customer_45,Chile,Valparaíso,Corporate,2024-04-07
+CUST-00046,Customer_46,Colombia,Medellín,Consumer,2023-12-13
+CUST-00047,Customer_47,Colombia,Medellín,Consumer,2023-01-08
+CUST-00048,Customer_48,Colombia,Bogotá,Consumer,2023-02-02
+CUST-00049,Customer_49,Chile,Santiago,Consumer,2023-10-13
+CUST-00050,Customer_50,Perú,Lima,Consumer,2024-08-07
+CUST-00051,Customer_51,Argentina,Córdoba,Consumer,2024-04-29
+CUST-00052,Customer_52,Perú,Lima,Consumer,2024-03-17
+CUST-00053,Customer_53,Chile,Valparaíso,Consumer,2023-02-25
+CUST-00054,Customer_54,Colombia,Bogotá,Consumer,2023-12-14
+CUST-00055,Customer_55,Colombia,Medellín,Consumer,2024-07-03
+CUST-00056,Customer_56,Perú,Lima,Consumer,2023-10-13
+CUST-00057,Customer_57,Perú,Lima,Corporate,2023-03-19
+CUST-00058,Customer_58,Perú,Trujillo,Consumer,2024-10-29
+CUST-00059,Customer_59,Argentina,Buenos Aires,Home Office,2023-08-31
+CUST-00060,Customer_60,México,Puebla,Consumer,2023-08-07
+CUST-00061,Customer_61,Perú,Lima,Consumer,2023-01-03
+CUST-00062,Customer_62,Perú,Arequipa,Home Office,2024-04-10
+CUST-00063,Customer_63,Chile,Valparaíso,Corporate,2024-07-23
+CUST-00064,Customer_64,Perú,Lima,Consumer,2023-08-11
+CUST-00065,Customer_65,Colombia,Bogotá,Corporate,2023-02-28
+CUST-00066,Customer_66,Colombia,Barranquilla,Consumer,2024-06-27
+CUST-00067,Customer_67,México,Ciudad de México,Home Office,2023-03-24
+CUST-00068,Customer_68,México,Ciudad de México,Consumer,2023-08-29
+CUST-00069,Customer_69,Perú,Lima,Home Office,2024-08-06
+CUST-00070,Customer_70,México,Ciudad de México,Consumer,2024-03-05
+CUST-00071,Customer_71,Argentina,Rosario,Consumer,2023-09-25
+CUST-00072,Customer_72,México,Monterrey,Consumer,2024-02-10
+CUST-00073,Customer_73,México,Monterrey,Consumer,2023-03-16
+CUST-00074,Customer_74,Colombia,Barranquilla,Consumer,2024-07-30
+CUST-00075,Customer_75,Colombia,Bogotá,Consumer,2024-06-02
+CUST-00076,Customer_76,Chile,Santiago,Home Office,2023-03-12
+CUST-00077,Customer_77,México,Monterrey,Consumer,2024-03-24
+CUST-00078,Customer_78,Argentina,Rosario,Consumer,2024-10-31
+CUST-00079,Customer_79,Argentina,Buenos Aires,Corporate,2024-07-21
+CUST-00080,Customer_80,Chile,Concepción,Consumer,2023-05-18
+CUST-00081,Customer_81,Chile,Santiago,Corporate,2024-07-20
+CUST-00082,Customer_82,México,Monterrey,Consumer,2023-08-04
+CUST-00083,Customer_83,Chile,Santiago,Corporate,2023-09-28
+CUST-00084,Customer_84,Argentina,Córdoba,Consumer,2023-02-22
+CUST-00085,Customer_85,Colombia,Barranquilla,Corporate,2023-02-15
+CUST-00086,Customer_86,Colombia,Cali,Corporate,2024-10-14
+CUST-00087,Customer_87,Chile,Santiago,Corporate,2024-07-18
+CUST-00088,Customer_88,Perú,Trujillo,Consumer,2023-03-19
+CUST-00089,Customer_89,México,Ciudad de México,Corporate,2024-08-19
+CUST-00090,Customer_90,Argentina,Buenos Aires,Consumer,2023-02-12
+CUST-00091,Customer_91,Chile,Valparaíso,Corporate,2023-02-10
+CUST-00092,Customer_92,Chile,Santiago,Corporate,2023-04-16
+CUST-00093,Customer_93,Chile,Concepción,Corporate,2024-02-21
+CUST-00094,Customer_94,Argentina,Rosario,Consumer,2023-08-31
+CUST-00095,Customer_95,México,Guadalajara,Corporate,2023-01-26
+CUST-00096,Customer_96,México,Monterrey,Corporate,2024-02-26
+CUST-00097,Customer_97,México,Monterrey,Consumer,2023-04-21
+CUST-00098,Customer_98,Perú,Lima,Corporate,2023-08-16
+CUST-00099,Customer_99,México,Puebla,Consumer,2023-08-22
+CUST-00100,Customer_100,México,Ciudad de México,Corporate,2024-02-13
+CUST-00101,Customer_101,Chile,Valparaíso,Corporate,2023-10-13
+CUST-00102,Customer_102,Chile,Concepción,Consumer,2024-07-03
+CUST-00103,Customer_103,Chile,Santiago,Consumer,2023-09-25
+CUST-00104,Customer_104,México,Monterrey,Consumer,2024-09-02
+CUST-00105,Customer_105,Perú,Arequipa,Corporate,2023-11-18
+CUST-00106,Customer_106,Perú,Trujillo,Home Office,2023-04-29
+CUST-00107,Customer_107,Perú,Trujillo,Consumer,2023-02-15
+CUST-00108,Customer_108,Perú,Lima,Consumer,2024-07-05
+CUST-00109,Customer_109,México,Monterrey,Consumer,2023-12-05
+CUST-00110,Customer_110,Argentina,Córdoba,Corporate,2023-05-08
+CUST-00111,Customer_111,Chile,Concepción,Consumer,2024-02-23
+CUST-00112,Customer_112,Chile,Valparaíso,Corporate,2024-07-21
+CUST-00113,Customer_113,México,Guadalajara,Consumer,2024-01-24
+CUST-00114,Customer_114,México,Monterrey,Consumer,2023-01-01
+CUST-00115,Customer_115,Chile,Valparaíso,Consumer,2024-08-16
+CUST-00116,Customer_116,Argentina,Rosario,Consumer,2024-03-28
+CUST-00117,Customer_117,Perú,Trujillo,Consumer,2024-04-29
+CUST-00118,Customer_118,México,Ciudad de México,Consumer,2024-10-10
+CUST-00119,Customer_119,Argentina,Córdoba,Consumer,2023-08-29
+CUST-00120,Customer_120,Chile,Santiago,Corporate,2023-05-31
+CUST-00121,Customer_121,Colombia,Bogotá,Consumer,2024-05-01
+CUST-00122,Customer_122,Argentina,Buenos Aires,Consumer,2024-10-06
+CUST-00123,Customer_123,Argentina,Buenos Aires,Corporate,2024-01-29
+CUST-00124,Customer_124,Perú,Arequipa,Consumer,2023-01-06
+CUST-00125,Customer_125,Colombia,Barranquilla,Consumer,2024-06-14
+CUST-00126,Customer_126,Perú,Lima,Consumer,2023-05-05
+CUST-00127,Customer_127,Perú,Lima,Corporate,2024-06-27
+CUST-00128,Customer_128,Argentina,Rosario,Consumer,2024-03-29
+CUST-00129,Customer_129,Argentina,Rosario,Corporate,2024-03-12
+CUST-00130,Customer_130,Argentina,Córdoba,Corporate,2024-05-01
+CUST-00131,Customer_131,Perú,Arequipa,Corporate,2024-10-14
+CUST-00132,Customer_132,Chile,Concepción,Consumer,2023-09-02
+CUST-00133,Customer_133,Chile,Valparaíso,Consumer,2023-10-20
+CUST-00134,Customer_134,México,Monterrey,Consumer,2024-07-07
+CUST-00135,Customer_135,Colombia,Medellín,Consumer,2024-01-28
+CUST-00136,Customer_136,México,Guadalajara,Consumer,2024-02-22
+CUST-00137,Customer_137,Chile,Concepción,Consumer,2023-03-05
+CUST-00138,Customer_138,México,Puebla,Consumer,2024-08-21
+CUST-00139,Customer_139,Colombia,Barranquilla,Consumer,2023-12-27
+CUST-00140,Customer_140,Chile,Valparaíso,Corporate,2024-03-05
+CUST-00141,Customer_141,Argentina,Rosario,Corporate,2024-09-09
+CUST-00142,Customer_142,México,Puebla,Consumer,2024-03-22
+CUST-00143,Customer_143,Perú,Lima,Consumer,2024-02-19
+CUST-00144,Customer_144,México,Puebla,Home Office,2024-09-29
+CUST-00145,Customer_145,Argentina,Buenos Aires,Home Office,2024-08-29
+CUST-00146,Customer_146,Argentina,Rosario,Consumer,2024-10-20
+CUST-00147,Customer_147,Perú,Lima,Corporate,2023-07-06
+CUST-00148,Customer_148,Colombia,Cali,Consumer,2023-08-05
+CUST-00149,Customer_149,Perú,Arequipa,Consumer,2024-01-24
+CUST-00150,Customer_150,Chile,Valparaíso,Consumer,2023-03-25
+CUST-00151,Customer_151,Perú,Lima,Corporate,2023-02-23
+CUST-00152,Customer_152,Chile,Santiago,Corporate,2024-10-29
+CUST-00153,Customer_153,Colombia,Bogotá,Home Office,2023-07-24
+CUST-00154,Customer_154,Colombia,Medellín,Consumer,2024-04-29
+CUST-00155,Customer_155,Colombia,Medellín,Consumer,2023-09-20
+CUST-00156,Customer_156,Chile,Santiago,Consumer,2023-04-28
+CUST-00157,Customer_157,México,Monterrey,Consumer,2023-01-27
+CUST-00158,Customer_158,Chile,Concepción,Corporate,2024-01-20
+CUST-00159,Customer_159,Perú,Trujillo,Consumer,2024-08-29
+CUST-00160,Customer_160,México,Ciudad de México,Corporate,2023-11-05
+CUST-00161,Customer_161,Argentina,Buenos Aires,Corporate,2024-08-02
+CUST-00162,Customer_162,Colombia,Cali,Consumer,2024-01-15
+CUST-00163,Customer_163,Colombia,Cali,Consumer,2024-03-06
+CUST-00164,Customer_164,Perú,Lima,Consumer,2024-01-06
+CUST-00165,Customer_165,Perú,Trujillo,Consumer,2023-06-30
+CUST-00166,Customer_166,Argentina,Rosario,Consumer,2024-07-05
+CUST-00167,Customer_167,Perú,Arequipa,Consumer,2024-08-29
+CUST-00168,Customer_168,Chile,Valparaíso,Corporate,2023-03-30
+CUST-00169,Customer_169,Chile,Valparaíso,Consumer,2024-04-20
+CUST-00170,Customer_170,Argentina,Rosario,Corporate,2023-12-11
+CUST-00171,Customer_171,Colombia,Barranquilla,Corporate,2023-07-06
+CUST-00172,Customer_172,Perú,Lima,Consumer,2023-09-22
+CUST-00173,Customer_173,Chile,Valparaíso,Corporate,2023-10-10
+CUST-00174,Customer_174,Argentina,Buenos Aires,Consumer,2023-07-15
+CUST-00175,Customer_175,Colombia,Medellín,Corporate,2024-05-15
+CUST-00176,Customer_176,Argentina,Buenos Aires,Corporate,2024-10-23
+CUST-00177,Customer_177,Perú,Arequipa,Corporate,2023-04-06
+CUST-00178,Customer_178,Chile,Santiago,Consumer,2023-09-07
+CUST-00179,Customer_179,Chile,Concepción,Consumer,2024-04-29
+CUST-00180,Customer_180,Argentina,Rosario,Consumer,2024-07-17
+CUST-00181,Customer_181,Chile,Valparaíso,Corporate,2023-10-05
+CUST-00182,Customer_182,Chile,Valparaíso,Consumer,2023-07-17
+CUST-00183,Customer_183,Chile,Santiago,Corporate,2023-07-09
+CUST-00184,Customer_184,México,Guadalajara,Corporate,2023-10-11
+CUST-00185,Customer_185,Argentina,Rosario,Consumer,2023-04-13
+CUST-00186,Customer_186,México,Monterrey,Consumer,2023-07-03
+CUST-00187,Customer_187,Chile,Santiago,Corporate,2023-05-10
+CUST-00188,Customer_188,Chile,Santiago,Home Office,2024-07-20
+CUST-00189,Customer_189,Chile,Concepción,Home Office,2024-10-15
+CUST-00190,Customer_190,Perú,Lima,Corporate,2024-08-10
+CUST-00191,Customer_191,Chile,Valparaíso,Consumer,2023-12-15
+CUST-00192,Customer_192,México,Ciudad de México,Consumer,2024-05-04
+CUST-00193,Customer_193,Colombia,Bogotá,Consumer,2023-03-17
+CUST-00194,Customer_194,Argentina,Rosario,Corporate,2023-06-05
+CUST-00195,Customer_195,México,Monterrey,Consumer,2023-09-12
+CUST-00196,Customer_196,Colombia,Barranquilla,Consumer,2024-09-25
+CUST-00197,Customer_197,México,Puebla,Consumer,2024-03-29
+CUST-00198,Customer_198,Chile,Concepción,Home Office,2023-11-09
+CUST-00199,Customer_199,Argentina,Rosario,Consumer,2023-04-12
+CUST-00200,Customer_200,México,Guadalajara,Consumer,2023-03-25
+CUST-00201,Customer_201,México,Guadalajara,Consumer,2023-03-18
+CUST-00202,Customer_202,México,Ciudad de México,Consumer,2024-08-31
+CUST-00203,Customer_203,Perú,Arequipa,Consumer,2023-10-23
+CUST-00204,Customer_204,Chile,Concepción,Corporate,2023-03-14
+CUST-00205,Customer_205,México,Monterrey,Corporate,2024-10-02
+CUST-00206,Customer_206,Argentina,Rosario,Corporate,2023-07-22
+CUST-00207,Customer_207,Perú,Lima,Consumer,2024-10-25
+CUST-00208,Customer_208,México,Monterrey,Corporate,2023-03-15
+CUST-00209,Customer_209,Colombia,Medellín,Corporate,2024-09-01
+CUST-00210,Customer_210,Argentina,Córdoba,Consumer,2024-04-24
+CUST-00211,Customer_211,Chile,Concepción,Consumer,2023-10-06
+CUST-00212,Customer_212,Argentina,Rosario,Consumer,2023-03-24
+CUST-00213,Customer_213,Argentina,Buenos Aires,Corporate,2023-11-27
+CUST-00214,Customer_214,Argentina,Córdoba,Consumer,2023-08-23
+CUST-00215,Customer_215,Argentina,Rosario,Home Office,2023-10-03
+CUST-00216,Customer_216,Argentina,Buenos Aires,Corporate,2023-06-29
+CUST-00217,Customer_217,Perú,Trujillo,Corporate,2023-10-12
+CUST-00218,Customer_218,México,Puebla,Consumer,2024-05-18
+CUST-00219,Customer_219,Colombia,Barranquilla,Consumer,2023-12-08
+CUST-00220,Customer_220,Chile,Concepción,Consumer,2023-06-14
+CUST-00221,Customer_221,Chile,Valparaíso,Corporate,2023-10-23
+CUST-00222,Customer_222,Perú,Trujillo,Consumer,2023-04-01
+CUST-00223,Customer_223,Chile,Valparaíso,Consumer,2024-02-18
+CUST-00224,Customer_224,Argentina,Buenos Aires,Corporate,2024-07-09
+CUST-00225,Customer_225,Perú,Arequipa,Consumer,2024-06-14
+CUST-00226,Customer_226,Chile,Concepción,Corporate,2024-10-02
+CUST-00227,Customer_227,Perú,Lima,Consumer,2024-07-16
+CUST-00228,Customer_228,México,Monterrey,Consumer,2024-05-11
+CUST-00229,Customer_229,Colombia,Bogotá,Home Office,2024-09-15
+CUST-00230,Customer_230,México,Guadalajara,Consumer,2023-01-15
+CUST-00231,Customer_231,Argentina,Córdoba,Consumer,2023-04-27
+CUST-00232,Customer_232,Perú,Lima,Consumer,2023-06-07
+CUST-00233,Customer_233,Perú,Trujillo,Consumer,2023-10-07
+CUST-00234,Customer_234,Perú,Arequipa,Home Office,2023-09-07
+CUST-00235,Customer_235,Perú,Trujillo,Consumer,2023-07-15
+CUST-00236,Customer_236,Argentina,Rosario,Corporate,2023-05-20
+CUST-00237,Customer_237,Colombia,Cali,Corporate,2024-02-29
+CUST-00238,Customer_238,Chile,Concepción,Consumer,2023-01-03
+CUST-00239,Customer_239,Chile,Concepción,Consumer,2024-08-24
+CUST-00240,Customer_240,Argentina,Rosario,Consumer,2023-06-02
+CUST-00241,Customer_241,Perú,Trujillo,Consumer,2023-12-07
+CUST-00242,Customer_242,Argentina,Rosario,Consumer,2023-11-26
+CUST-00243,Customer_243,México,Guadalajara,Consumer,2023-08-28
+CUST-00244,Customer_244,Perú,Lima,Consumer,2024-04-29
+CUST-00245,Customer_245,Perú,Arequipa,Home Office,2024-10-29
+CUST-00246,Customer_246,México,Puebla,Home Office,2023-05-10
+CUST-00247,Customer_247,Argentina,Rosario,Consumer,2023-04-13
+CUST-00248,Customer_248,Perú,Lima,Consumer,2024-04-12
+CUST-00249,Customer_249,Colombia,Medellín,Consumer,2024-11-01
+CUST-00250,Customer_250,México,Ciudad de México,Consumer,2023-09-29
+CUST-00251,Customer_251,Chile,Concepción,Corporate,2024-10-27
+CUST-00252,Customer_252,Colombia,Cali,Corporate,2024-06-30
+CUST-00253,Customer_253,Perú,Arequipa,Consumer,2024-05-14
+CUST-00254,Customer_254,Argentina,Buenos Aires,Consumer,2023-08-29
+CUST-00255,Customer_255,Chile,Santiago,Corporate,2024-03-20
+CUST-00256,Customer_256,Colombia,Bogotá,Consumer,2023-11-03
+CUST-00257,Customer_257,Colombia,Bogotá,Consumer,2023-02-27
+CUST-00258,Customer_258,Chile,Valparaíso,Consumer,2023-05-30
+CUST-00259,Customer_259,México,Puebla,Consumer,2023-07-04
+CUST-00260,Customer_260,México,Guadalajara,Consumer,2024-01-27
+CUST-00261,Customer_261,Argentina,Rosario,Consumer,2024-08-20
+CUST-00262,Customer_262,México,Guadalajara,Consumer,2023-09-18
+CUST-00263,Customer_263,Perú,Arequipa,Corporate,2024-04-21
+CUST-00264,Customer_264,Chile,Concepción,Consumer,2023-03-17
+CUST-00265,Customer_265,Perú,Arequipa,Home Office,2023-11-03
+CUST-00266,Customer_266,Perú,Trujillo,Consumer,2023-11-06
+CUST-00267,Customer_267,México,Puebla,Corporate,2023-04-20
+CUST-00268,Customer_268,México,Puebla,Consumer,2024-08-11
+CUST-00269,Customer_269,Chile,Concepción,Consumer,2024-02-10
+CUST-00270,Customer_270,Chile,Santiago,Consumer,2023-02-20
+CUST-00271,Customer_271,Argentina,Rosario,Consumer,2023-10-21
+CUST-00272,Customer_272,México,Monterrey,Consumer,2023-07-14
+CUST-00273,Customer_273,Argentina,Córdoba,Corporate,2023-05-21
+CUST-00274,Customer_274,Colombia,Bogotá,Consumer,2024-03-27
+CUST-00275,Customer_275,Colombia,Cali,Corporate,2023-04-03
+CUST-00276,Customer_276,Chile,Valparaíso,Corporate,2023-06-29
+CUST-00277,Customer_277,México,Guadalajara,Corporate,2024-01-10
+CUST-00278,Customer_278,Argentina,Rosario,Home Office,2023-06-18
+CUST-00279,Customer_279,Chile,Valparaíso,Home Office,2023-10-30
+CUST-00280,Customer_280,Chile,Santiago,Consumer,2023-03-19
+CUST-00281,Customer_281,México,Guadalajara,Corporate,2024-02-11
+CUST-00282,Customer_282,Argentina,Córdoba,Consumer,2024-02-09
+CUST-00283,Customer_283,Colombia,Cali,Consumer,2024-04-10
+CUST-00284,Customer_284,Chile,Concepción,Corporate,2023-09-26
+CUST-00285,Customer_285,Argentina,Córdoba,Corporate,2024-01-16
+CUST-00286,Customer_286,Colombia,Medellín,Consumer,2024-09-26
+CUST-00287,Customer_287,Argentina,Córdoba,Home Office,2023-08-15
+CUST-00288,Customer_288,Colombia,Barranquilla,Home Office,2023-11-06
+CUST-00289,Customer_289,Perú,Lima,Consumer,2023-02-08
+CUST-00290,Customer_290,Chile,Valparaíso,Consumer,2023-08-29
+CUST-00291,Customer_291,Argentina,Buenos Aires,Consumer,2024-01-15
+CUST-00292,Customer_292,Argentina,Córdoba,Consumer,2023-06-08
+CUST-00293,Customer_293,Perú,Trujillo,Consumer,2024-05-16
+CUST-00294,Customer_294,Argentina,Córdoba,Home Office,2023-10-14
+CUST-00295,Customer_295,Colombia,Cali,Consumer,2024-03-31
+CUST-00296,Customer_296,México,Monterrey,Consumer,2024-01-12
+CUST-00297,Customer_297,Argentina,Rosario,Consumer,2024-02-12
+CUST-00298,Customer_298,Chile,Santiago,Home Office,2024-04-10
+CUST-00299,Customer_299,Colombia,Medellín,Consumer,2024-09-03
+CUST-00300,Customer_300,Colombia,Bogotá,Corporate,2023-09-07
+CUST-00301,Customer_301,México,Guadalajara,Consumer,2024-07-21
+CUST-00302,Customer_302,México,Guadalajara,Corporate,2023-08-27
+CUST-00303,Customer_303,Chile,Santiago,Corporate,2024-09-02
+CUST-00304,Customer_304,Colombia,Cali,Corporate,2023-05-29
+CUST-00305,Customer_305,México,Monterrey,Corporate,2023-04-23
+CUST-00306,Customer_306,Colombia,Medellín,Consumer,2023-09-01
+CUST-00307,Customer_307,Argentina,Córdoba,Consumer,2023-09-29
+CUST-00308,Customer_308,Colombia,Medellín,Corporate,2024-06-22
+CUST-00309,Customer_309,Colombia,Bogotá,Consumer,2024-01-06
+CUST-00310,Customer_310,Argentina,Rosario,Consumer,2024-05-30
+CUST-00311,Customer_311,México,Ciudad de México,Corporate,2024-06-17
+CUST-00312,Customer_312,Chile,Valparaíso,Consumer,2023-02-01
+CUST-00313,Customer_313,Colombia,Barranquilla,Corporate,2024-03-12
+CUST-00314,Customer_314,Colombia,Barranquilla,Corporate,2024-03-30
+CUST-00315,Customer_315,Colombia,Bogotá,Consumer,2023-06-01
+CUST-00316,Customer_316,Colombia,Medellín,Consumer,2024-10-10
+CUST-00317,Customer_317,Argentina,Rosario,Corporate,2024-01-26
+CUST-00318,Customer_318,Argentina,Rosario,Consumer,2024-06-01
+CUST-00319,Customer_319,Argentina,Córdoba,Consumer,2023-04-28
+CUST-00320,Customer_320,Argentina,Rosario,Corporate,2024-03-16
+CUST-00321,Customer_321,Perú,Lima,Consumer,2024-04-09
+CUST-00322,Customer_322,Perú,Arequipa,Corporate,2023-11-17
+CUST-00323,Customer_323,Perú,Arequipa,Corporate,2024-01-19
+CUST-00324,Customer_324,México,Puebla,Consumer,2023-03-29
+CUST-00325,Customer_325,Colombia,Barranquilla,Consumer,2024-01-17
+CUST-00326,Customer_326,México,Ciudad de México,Consumer,2024-07-29
+CUST-00327,Customer_327,Argentina,Córdoba,Corporate,2024-02-25
+CUST-00328,Customer_328,Chile,Concepción,Home Office,2024-03-09
+CUST-00329,Customer_329,Colombia,Cali,Consumer,2023-12-27
+CUST-00330,Customer_330,Colombia,Medellín,Consumer,2024-05-08
+CUST-00331,Customer_331,México,Ciudad de México,Consumer,2024-07-23
+CUST-00332,Customer_332,Chile,Santiago,Corporate,2024-08-10
+CUST-00333,Customer_333,México,Puebla,Corporate,2024-09-28
+CUST-00334,Customer_334,Argentina,Rosario,Consumer,2023-01-27
+CUST-00335,Customer_335,Argentina,Rosario,Corporate,2023-10-01
+CUST-00336,Customer_336,Colombia,Medellín,Consumer,2023-11-13
+CUST-00337,Customer_337,Chile,Valparaíso,Consumer,2023-05-27
+CUST-00338,Customer_338,Argentina,Rosario,Consumer,2023-05-26
+CUST-00339,Customer_339,Colombia,Bogotá,Corporate,2023-08-09
+CUST-00340,Customer_340,Perú,Arequipa,Consumer,2023-06-11
+CUST-00341,Customer_341,Chile,Valparaíso,Corporate,2024-08-04
+CUST-00342,Customer_342,Argentina,Buenos Aires,Corporate,2023-06-09
+CUST-00343,Customer_343,México,Ciudad de México,Corporate,2023-10-06
+CUST-00344,Customer_344,Perú,Trujillo,Consumer,2024-09-13
+CUST-00345,Customer_345,Perú,Arequipa,Consumer,2024-06-08
+CUST-00346,Customer_346,Colombia,Cali,Consumer,2023-10-18
+CUST-00347,Customer_347,Argentina,Córdoba,Consumer,2023-11-12
+CUST-00348,Customer_348,Colombia,Medellín,Consumer,2024-09-05
+CUST-00349,Customer_349,Colombia,Bogotá,Consumer,2023-08-05
+CUST-00350,Customer_350,México,Monterrey,Consumer,2023-05-03
+CUST-00351,Customer_351,Colombia,Barranquilla,Corporate,2023-06-29
+CUST-00352,Customer_352,México,Puebla,Consumer,2023-08-24
+CUST-00353,Customer_353,Argentina,Rosario,Corporate,2023-12-29
+CUST-00354,Customer_354,Colombia,Barranquilla,Corporate,2023-02-13
+CUST-00355,Customer_355,Perú,Lima,Consumer,2023-03-21
+CUST-00356,Customer_356,Chile,Concepción,Consumer,2024-02-19
+CUST-00357,Customer_357,Perú,Arequipa,Consumer,2023-01-22
+CUST-00358,Customer_358,Chile,Santiago,Corporate,2024-09-24
+CUST-00359,Customer_359,Perú,Trujillo,Home Office,2023-04-01
+CUST-00360,Customer_360,Perú,Lima,Consumer,2024-08-26
+CUST-00361,Customer_361,Perú,Trujillo,Consumer,2023-11-14
+CUST-00362,Customer_362,Chile,Santiago,Consumer,2023-06-22
+CUST-00363,Customer_363,Colombia,Bogotá,Consumer,2023-07-18
+CUST-00364,Customer_364,Chile,Valparaíso,Corporate,2024-10-22
+CUST-00365,Customer_365,México,Guadalajara,Consumer,2023-09-20
+CUST-00366,Customer_366,México,Guadalajara,Consumer,2023-03-19
+CUST-00367,Customer_367,México,Puebla,Consumer,2024-07-31
+CUST-00368,Customer_368,Argentina,Córdoba,Corporate,2024-08-01
+CUST-00369,Customer_369,Argentina,Córdoba,Corporate,2024-10-04
+CUST-00370,Customer_370,Chile,Santiago,Consumer,2024-04-25
+CUST-00371,Customer_371,Perú,Trujillo,Consumer,2023-10-09
+CUST-00372,Customer_372,Argentina,Buenos Aires,Consumer,2023-03-17
+CUST-00373,Customer_373,Chile,Valparaíso,Consumer,2023-02-28
+CUST-00374,Customer_374,Chile,Valparaíso,Consumer,2023-04-03
+CUST-00375,Customer_375,Argentina,Rosario,Consumer,2024-04-18
+CUST-00376,Customer_376,Argentina,Rosario,Home Office,2023-02-12
+CUST-00377,Customer_377,Perú,Trujillo,Corporate,2023-11-26
+CUST-00378,Customer_378,Argentina,Córdoba,Consumer,2023-03-05
+CUST-00379,Customer_379,Perú,Lima,Corporate,2023-12-18
+CUST-00380,Customer_380,Colombia,Medellín,Consumer,2024-03-24
+CUST-00381,Customer_381,Perú,Trujillo,Consumer,2023-06-12
+CUST-00382,Customer_382,Chile,Valparaíso,Home Office,2024-02-01
+CUST-00383,Customer_383,Perú,Arequipa,Corporate,2023-02-23
+CUST-00384,Customer_384,Chile,Santiago,Consumer,2024-07-25
+CUST-00385,Customer_385,Perú,Arequipa,Consumer,2024-09-09
+CUST-00386,Customer_386,México,Monterrey,Consumer,2023-05-25
+CUST-00387,Customer_387,Chile,Valparaíso,Home Office,2024-02-06
+CUST-00388,Customer_388,México,Ciudad de México,Consumer,2024-01-21
+CUST-00389,Customer_389,Chile,Santiago,Corporate,2024-06-23
+CUST-00390,Customer_390,Colombia,Barranquilla,Consumer,2023-01-19
+CUST-00391,Customer_391,Chile,Valparaíso,Consumer,2023-08-08
+CUST-00392,Customer_392,Chile,Valparaíso,Consumer,2023-05-21
+CUST-00393,Customer_393,México,Ciudad de México,Consumer,2023-04-14
+CUST-00394,Customer_394,Argentina,Rosario,Corporate,2024-06-23
+CUST-00395,Customer_395,Colombia,Cali,Corporate,2024-09-24
+CUST-00396,Customer_396,México,Puebla,Consumer,2023-07-05
+CUST-00397,Customer_397,Argentina,Buenos Aires,Corporate,2023-02-14
+CUST-00398,Customer_398,Perú,Arequipa,Corporate,2023-09-01
+CUST-00399,Customer_399,Perú,Trujillo,Consumer,2024-04-04
+CUST-00400,Customer_400,México,Guadalajara,Consumer,2024-04-25
+CUST-00401,Customer_401,México,Monterrey,Corporate,2024-08-07
+CUST-00402,Customer_402,Perú,Arequipa,Corporate,2024-01-27
+CUST-00403,Customer_403,Argentina,Rosario,Consumer,2023-06-15
+CUST-00404,Customer_404,México,Guadalajara,Corporate,2023-02-23
+CUST-00405,Customer_405,Perú,Arequipa,Consumer,2023-04-16
+CUST-00406,Customer_406,Argentina,Buenos Aires,Consumer,2023-06-14
+CUST-00407,Customer_407,Chile,Valparaíso,Home Office,2023-05-31
+CUST-00408,Customer_408,Perú,Lima,Home Office,2023-08-16
+CUST-00409,Customer_409,Perú,Arequipa,Home Office,2024-02-29
+CUST-00410,Customer_410,Colombia,Barranquilla,Consumer,2023-08-30
+CUST-00411,Customer_411,Perú,Lima,Consumer,2023-01-29
+CUST-00412,Customer_412,Chile,Santiago,Corporate,2024-10-27
+CUST-00413,Customer_413,Chile,Santiago,Consumer,2023-10-21
+CUST-00414,Customer_414,Perú,Trujillo,Corporate,2024-04-25
+CUST-00415,Customer_415,Perú,Trujillo,Consumer,2023-03-23
+CUST-00416,Customer_416,Colombia,Cali,Consumer,2023-06-03
+CUST-00417,Customer_417,Argentina,Rosario,Consumer,2024-03-09
+CUST-00418,Customer_418,Colombia,Cali,Consumer,2023-05-05
+CUST-00419,Customer_419,Colombia,Medellín,Consumer,2024-09-29
+CUST-00420,Customer_420,Perú,Lima,Consumer,2024-05-26
+CUST-00421,Customer_421,Argentina,Rosario,Consumer,2024-06-11
+CUST-00422,Customer_422,Argentina,Buenos Aires,Corporate,2023-10-26
+CUST-00423,Customer_423,Perú,Lima,Consumer,2023-09-04
+CUST-00424,Customer_424,Argentina,Córdoba,Consumer,2023-03-29
+CUST-00425,Customer_425,Argentina,Córdoba,Consumer,2024-06-22
+CUST-00426,Customer_426,Argentina,Rosario,Corporate,2024-06-03
+CUST-00427,Customer_427,Argentina,Buenos Aires,Consumer,2024-04-26
+CUST-00428,Customer_428,Colombia,Barranquilla,Home Office,2023-09-17
+CUST-00429,Customer_429,Colombia,Cali,Corporate,2023-12-20
+CUST-00430,Customer_430,México,Ciudad de México,Corporate,2023-12-07
+CUST-00431,Customer_431,México,Ciudad de México,Consumer,2023-12-13
+CUST-00432,Customer_432,México,Puebla,Home Office,2024-05-05
+CUST-00433,Customer_433,México,Guadalajara,Consumer,2024-04-13
+CUST-00434,Customer_434,Colombia,Cali,Consumer,2023-07-24
+CUST-00435,Customer_435,Colombia,Cali,Home Office,2024-06-11
+CUST-00436,Customer_436,Perú,Trujillo,Consumer,2023-02-07
+CUST-00437,Customer_437,México,Monterrey,Consumer,2023-02-18
+CUST-00438,Customer_438,Chile,Valparaíso,Consumer,2024-01-12
+CUST-00439,Customer_439,Perú,Arequipa,Corporate,2024-01-31
+CUST-00440,Customer_440,Chile,Santiago,Consumer,2024-05-24
+CUST-00441,Customer_441,Chile,Concepción,Consumer,2023-03-26
+CUST-00442,Customer_442,Perú,Lima,Consumer,2023-07-04
+CUST-00443,Customer_443,Argentina,Córdoba,Consumer,2023-03-23
+CUST-00444,Customer_444,Chile,Concepción,Consumer,2024-04-01
+CUST-00445,Customer_445,Argentina,Rosario,Consumer,2024-03-30
+CUST-00446,Customer_446,Chile,Valparaíso,Consumer,2023-12-28
+CUST-00447,Customer_447,Argentina,Córdoba,Consumer,2023-02-28
+CUST-00448,Customer_448,Colombia,Barranquilla,Consumer,2023-06-13
+CUST-00449,Customer_449,Colombia,Medellín,Corporate,2024-03-24
+CUST-00450,Customer_450,Colombia,Medellín,Consumer,2024-10-22
+CUST-00451,Customer_451,Chile,Valparaíso,Consumer,2024-08-03
+CUST-00452,Customer_452,Colombia,Medellín,Corporate,2024-01-15
+CUST-00453,Customer_453,Chile,Valparaíso,Corporate,2024-08-10
+CUST-00454,Customer_454,México,Monterrey,Consumer,2024-10-27
+CUST-00455,Customer_455,Chile,Santiago,Home Office,2023-01-27
+CUST-00456,Customer_456,México,Puebla,Consumer,2024-07-29
+CUST-00457,Customer_457,Colombia,Cali,Corporate,2024-04-01
+CUST-00458,Customer_458,México,Monterrey,Corporate,2024-05-17
+CUST-00459,Customer_459,México,Ciudad de México,Consumer,2023-03-17
+CUST-00460,Customer_460,Perú,Lima,Corporate,2024-03-31
+CUST-00461,Customer_461,Colombia,Cali,Corporate,2023-03-08
+CUST-00462,Customer_462,Argentina,Rosario,Consumer,2023-11-04
+CUST-00463,Customer_463,México,Guadalajara,Corporate,2024-06-04
+CUST-00464,Customer_464,México,Ciudad de México,Home Office,2023-05-23
+CUST-00465,Customer_465,México,Puebla,Consumer,2024-07-21
+CUST-00466,Customer_466,Argentina,Córdoba,Consumer,2024-07-18
+CUST-00467,Customer_467,México,Ciudad de México,Consumer,2024-02-12
+CUST-00468,Customer_468,Perú,Trujillo,Consumer,2024-02-24
+CUST-00469,Customer_469,Argentina,Buenos Aires,Consumer,2023-11-21
+CUST-00470,Customer_470,Colombia,Barranquilla,Consumer,2024-06-13
+CUST-00471,Customer_471,Chile,Santiago,Corporate,2024-07-18
+CUST-00472,Customer_472,Argentina,Buenos Aires,Corporate,2023-05-13
+CUST-00473,Customer_473,Perú,Trujillo,Home Office,2023-02-26
+CUST-00474,Customer_474,Colombia,Medellín,Consumer,2023-06-15
+CUST-00475,Customer_475,Chile,Concepción,Consumer,2024-06-15
+CUST-00476,Customer_476,Chile,Santiago,Consumer,2024-10-12
+CUST-00477,Customer_477,Argentina,Córdoba,Consumer,2023-11-07
+CUST-00478,Customer_478,Argentina,Rosario,Consumer,2024-10-18
+CUST-00479,Customer_479,México,Guadalajara,Consumer,2024-10-01
+CUST-00480,Customer_480,Argentina,Córdoba,Corporate,2024-07-31
+CUST-00481,Customer_481,Colombia,Bogotá,Consumer,2024-10-18
+CUST-00482,Customer_482,Argentina,Córdoba,Corporate,2024-08-08
+CUST-00483,Customer_483,Perú,Trujillo,Consumer,2024-05-24
+CUST-00484,Customer_484,Argentina,Córdoba,Consumer,2023-11-06
+CUST-00485,Customer_485,Perú,Lima,Corporate,2024-02-20
+CUST-00486,Customer_486,Chile,Valparaíso,Consumer,2023-03-03
+CUST-00487,Customer_487,México,Puebla,Consumer,2024-04-20
+CUST-00488,Customer_488,México,Monterrey,Consumer,2023-11-17
+CUST-00489,Customer_489,Chile,Concepción,Home Office,2023-12-20
+CUST-00490,Customer_490,Perú,Lima,Corporate,2024-06-11
+CUST-00491,Customer_491,Argentina,Buenos Aires,Consumer,2024-04-22
+CUST-00492,Customer_492,Colombia,Cali,Consumer,2023-05-25
+CUST-00493,Customer_493,Colombia,Bogotá,Consumer,2024-01-29
+CUST-00494,Customer_494,Argentina,Córdoba,Consumer,2023-06-13
+CUST-00495,Customer_495,Chile,Concepción,Corporate,2023-07-14
+CUST-00496,Customer_496,México,Puebla,Home Office,2024-04-23
+CUST-00497,Customer_497,Perú,Arequipa,Consumer,2023-04-03
+CUST-00498,Customer_498,Perú,Trujillo,Consumer,2023-09-04
+CUST-00499,Customer_499,México,Monterrey,Consumer,2023-10-16
+CUST-00500,Customer_500,Perú,Trujillo,Corporate,2024-10-31
+CUST-00501,Customer_501,Perú,Arequipa,Consumer,2023-04-21
+CUST-00502,Customer_502,Perú,Lima,Corporate,2024-01-10
+CUST-00503,Customer_503,Perú,Arequipa,Consumer,2023-02-22
+CUST-00504,Customer_504,Argentina,Rosario,Consumer,2024-07-20
+CUST-00505,Customer_505,Chile,Santiago,Consumer,2024-04-06
+CUST-00506,Customer_506,Argentina,Córdoba,Corporate,2024-09-30
+CUST-00507,Customer_507,Argentina,Buenos Aires,Consumer,2023-04-10
+CUST-00508,Customer_508,Perú,Arequipa,Corporate,2023-12-14
+CUST-00509,Customer_509,Argentina,Córdoba,Corporate,2023-07-23
+CUST-00510,Customer_510,Argentina,Rosario,Consumer,2023-02-11
+CUST-00511,Customer_511,Colombia,Bogotá,Consumer,2023-12-08
+CUST-00512,Customer_512,Perú,Trujillo,Consumer,2024-09-12
+CUST-00513,Customer_513,Argentina,Buenos Aires,Consumer,2024-09-19
+CUST-00514,Customer_514,Chile,Santiago,Consumer,2024-09-23
+CUST-00515,Customer_515,Chile,Concepción,Consumer,2024-06-05
+CUST-00516,Customer_516,Argentina,Córdoba,Corporate,2023-11-03
+CUST-00517,Customer_517,Perú,Lima,Consumer,2023-04-23
+CUST-00518,Customer_518,Perú,Trujillo,Consumer,2024-10-06
+CUST-00519,Customer_519,Colombia,Barranquilla,Consumer,2024-08-15
+CUST-00520,Customer_520,Argentina,Buenos Aires,Corporate,2024-08-20
+CUST-00521,Customer_521,Perú,Lima,Consumer,2024-09-26
+CUST-00522,Customer_522,Perú,Lima,Corporate,2023-09-06
+CUST-00523,Customer_523,Colombia,Bogotá,Consumer,2024-03-27
+CUST-00524,Customer_524,Chile,Valparaíso,Consumer,2023-07-28
+CUST-00525,Customer_525,Perú,Trujillo,Corporate,2024-04-27
+CUST-00526,Customer_526,Colombia,Medellín,Consumer,2024-07-28
+CUST-00527,Customer_527,Chile,Concepción,Consumer,2024-01-21
+CUST-00528,Customer_528,Chile,Santiago,Consumer,2024-06-29
+CUST-00529,Customer_529,Chile,Concepción,Consumer,2024-10-20
+CUST-00530,Customer_530,Chile,Concepción,Consumer,2023-09-10
+CUST-00531,Customer_531,Chile,Concepción,Consumer,2023-11-01
+CUST-00532,Customer_532,Chile,Concepción,Consumer,2024-05-15
+CUST-00533,Customer_533,Chile,Valparaíso,Consumer,2023-10-08
+CUST-00534,Customer_534,Chile,Santiago,Consumer,2024-07-10
+CUST-00535,Customer_535,Perú,Arequipa,Corporate,2023-05-30
+CUST-00536,Customer_536,Chile,Santiago,Consumer,2023-03-22
+CUST-00537,Customer_537,Chile,Valparaíso,Corporate,2024-05-05
+CUST-00538,Customer_538,México,Guadalajara,Corporate,2023-10-05
+CUST-00539,Customer_539,Argentina,Rosario,Consumer,2023-04-22
+CUST-00540,Customer_540,Argentina,Rosario,Consumer,2023-09-06
+CUST-00541,Customer_541,Colombia,Medellín,Consumer,2023-02-23
+CUST-00542,Customer_542,Colombia,Barranquilla,Consumer,2024-04-28
+CUST-00543,Customer_543,Colombia,Medellín,Consumer,2024-07-17
+CUST-00544,Customer_544,México,Puebla,Corporate,2024-05-02
+CUST-00545,Customer_545,Perú,Trujillo,Consumer,2023-10-22
+CUST-00546,Customer_546,Chile,Valparaíso,Consumer,2023-04-02
+CUST-00547,Customer_547,Argentina,Buenos Aires,Consumer,2023-02-08
+CUST-00548,Customer_548,México,Puebla,Corporate,2023-06-30
+CUST-00549,Customer_549,Colombia,Barranquilla,Corporate,2023-07-10
+CUST-00550,Customer_550,Chile,Santiago,Consumer,2024-08-04
+CUST-00551,Customer_551,Argentina,Buenos Aires,Home Office,2023-12-10
+CUST-00552,Customer_552,Chile,Valparaíso,Home Office,2024-07-10
+CUST-00553,Customer_553,Argentina,Córdoba,Corporate,2023-05-18
+CUST-00554,Customer_554,Argentina,Córdoba,Consumer,2023-04-26
+CUST-00555,Customer_555,Chile,Santiago,Corporate,2024-10-25
+CUST-00556,Customer_556,Chile,Concepción,Consumer,2023-12-12
+CUST-00557,Customer_557,Chile,Concepción,Corporate,2023-07-17
+CUST-00558,Customer_558,México,Puebla,Corporate,2024-06-11
+CUST-00559,Customer_559,Chile,Santiago,Consumer,2023-04-08
+CUST-00560,Customer_560,México,Guadalajara,Consumer,2023-09-12
+CUST-00561,Customer_561,Colombia,Cali,Consumer,2024-04-02
+CUST-00562,Customer_562,Chile,Valparaíso,Consumer,2024-08-09
+CUST-00563,Customer_563,Colombia,Cali,Corporate,2023-08-30
+CUST-00564,Customer_564,Colombia,Bogotá,Consumer,2023-06-13
+CUST-00565,Customer_565,Perú,Trujillo,Consumer,2023-11-15
+CUST-00566,Customer_566,Colombia,Cali,Consumer,2023-08-15
+CUST-00567,Customer_567,México,Guadalajara,Consumer,2024-04-10
+CUST-00568,Customer_568,Argentina,Córdoba,Consumer,2024-07-16
+CUST-00569,Customer_569,Perú,Trujillo,Corporate,2023-08-12
+CUST-00570,Customer_570,México,Ciudad de México,Consumer,2024-06-24
+CUST-00571,Customer_571,Chile,Santiago,Home Office,2023-04-25
+CUST-00572,Customer_572,Colombia,Medellín,Consumer,2023-06-03
+CUST-00573,Customer_573,México,Monterrey,Corporate,2024-03-28
+CUST-00574,Customer_574,Colombia,Medellín,Corporate,2024-05-15
+CUST-00575,Customer_575,Colombia,Barranquilla,Corporate,2024-04-09
+CUST-00576,Customer_576,México,Puebla,Consumer,2023-03-01
+CUST-00577,Customer_577,Argentina,Córdoba,Corporate,2023-11-12
+CUST-00578,Customer_578,Colombia,Barranquilla,Consumer,2023-01-04
+CUST-00579,Customer_579,México,Ciudad de México,Consumer,2023-12-19
+CUST-00580,Customer_580,Colombia,Bogotá,Home Office,2023-03-12
+CUST-00581,Customer_581,Perú,Lima,Consumer,2023-07-04
+CUST-00582,Customer_582,México,Puebla,Consumer,2024-01-27
+CUST-00583,Customer_583,Perú,Arequipa,Consumer,2024-07-06
+CUST-00584,Customer_584,México,Monterrey,Consumer,2024-07-04
+CUST-00585,Customer_585,Perú,Trujillo,Consumer,2023-08-17
+CUST-00586,Customer_586,Colombia,Bogotá,Home Office,2024-04-19
+CUST-00587,Customer_587,Argentina,Córdoba,Consumer,2023-08-24
+CUST-00588,Customer_588,México,Puebla,Consumer,2023-10-10
+CUST-00589,Customer_589,México,Ciudad de México,Consumer,2024-03-05
+CUST-00590,Customer_590,Argentina,Buenos Aires,Consumer,2023-03-10
+CUST-00591,Customer_591,Colombia,Bogotá,Consumer,2023-02-19
+CUST-00592,Customer_592,México,Ciudad de México,Consumer,2023-08-28
+CUST-00593,Customer_593,Argentina,Buenos Aires,Corporate,2023-02-27
+CUST-00594,Customer_594,México,Monterrey,Consumer,2024-08-12
+CUST-00595,Customer_595,Chile,Concepción,Consumer,2023-11-25
+CUST-00596,Customer_596,México,Monterrey,Corporate,2024-06-17
+CUST-00597,Customer_597,México,Puebla,Consumer,2023-03-04
+CUST-00598,Customer_598,Argentina,Rosario,Corporate,2023-06-29
+CUST-00599,Customer_599,Perú,Trujillo,Consumer,2023-12-19
+CUST-00600,Customer_600,Perú,Trujillo,Consumer,2024-03-02
+CUST-00601,Customer_601,Perú,Lima,Consumer,2023-07-08
+CUST-00602,Customer_602,Argentina,Córdoba,Consumer,2023-08-19
+CUST-00603,Customer_603,Chile,Concepción,Consumer,2024-04-19
+CUST-00604,Customer_604,Colombia,Barranquilla,Home Office,2024-07-24
+CUST-00605,Customer_605,Argentina,Buenos Aires,Consumer,2023-09-19
+CUST-00606,Customer_606,México,Monterrey,Consumer,2024-04-05
+CUST-00607,Customer_607,Chile,Santiago,Consumer,2023-07-15
+CUST-00608,Customer_608,Colombia,Cali,Consumer,2024-09-11
+CUST-00609,Customer_609,Argentina,Buenos Aires,Corporate,2023-07-12
+CUST-00610,Customer_610,Argentina,Rosario,Corporate,2023-08-11
+CUST-00611,Customer_611,Perú,Lima,Corporate,2023-12-07
+CUST-00612,Customer_612,Chile,Santiago,Consumer,2023-07-14
+CUST-00613,Customer_613,Colombia,Barranquilla,Home Office,2024-09-10
+CUST-00614,Customer_614,México,Puebla,Home Office,2024-07-19
+CUST-00615,Customer_615,Chile,Valparaíso,Consumer,2024-06-30
+CUST-00616,Customer_616,Chile,Valparaíso,Consumer,2024-06-09
+CUST-00617,Customer_617,Perú,Arequipa,Consumer,2024-04-25
+CUST-00618,Customer_618,Chile,Santiago,Consumer,2024-02-28
+CUST-00619,Customer_619,Colombia,Medellín,Corporate,2023-01-17
+CUST-00620,Customer_620,Chile,Concepción,Home Office,2024-08-16
+CUST-00621,Customer_621,Perú,Arequipa,Consumer,2023-12-04
+CUST-00622,Customer_622,México,Puebla,Consumer,2023-09-09
+CUST-00623,Customer_623,Perú,Trujillo,Corporate,2023-12-12
+CUST-00624,Customer_624,Chile,Valparaíso,Home Office,2024-10-19
+CUST-00625,Customer_625,Perú,Arequipa,Consumer,2023-12-27
+CUST-00626,Customer_626,México,Guadalajara,Corporate,2024-05-15
+CUST-00627,Customer_627,México,Ciudad de México,Consumer,2023-03-18
+CUST-00628,Customer_628,Colombia,Bogotá,Consumer,2024-10-07
+CUST-00629,Customer_629,México,Ciudad de México,Corporate,2023-01-10
+CUST-00630,Customer_630,México,Puebla,Consumer,2024-09-24
+CUST-00631,Customer_631,Argentina,Córdoba,Corporate,2023-01-17
+CUST-00632,Customer_632,Colombia,Barranquilla,Consumer,2024-06-26
+CUST-00633,Customer_633,Chile,Concepción,Home Office,2023-01-18
+CUST-00634,Customer_634,Argentina,Rosario,Corporate,2023-07-03
+CUST-00635,Customer_635,Colombia,Bogotá,Consumer,2023-09-04
+CUST-00636,Customer_636,México,Monterrey,Corporate,2023-10-01
+CUST-00637,Customer_637,Perú,Lima,Consumer,2024-02-20
+CUST-00638,Customer_638,Perú,Trujillo,Consumer,2023-08-20
+CUST-00639,Customer_639,Chile,Concepción,Corporate,2023-03-24
+CUST-00640,Customer_640,Colombia,Bogotá,Consumer,2024-01-22
+CUST-00641,Customer_641,Argentina,Córdoba,Consumer,2023-01-10
+CUST-00642,Customer_642,México,Ciudad de México,Consumer,2024-03-20
+CUST-00643,Customer_643,Chile,Concepción,Home Office,2023-04-08
+CUST-00644,Customer_644,Argentina,Buenos Aires,Consumer,2024-08-03
+CUST-00645,Customer_645,Perú,Arequipa,Consumer,2023-03-18
+CUST-00646,Customer_646,Chile,Concepción,Consumer,2023-02-03
+CUST-00647,Customer_647,México,Monterrey,Consumer,2023-08-01
+CUST-00648,Customer_648,Argentina,Buenos Aires,Corporate,2024-02-12
+CUST-00649,Customer_649,Colombia,Cali,Consumer,2023-09-04
+CUST-00650,Customer_650,Argentina,Córdoba,Corporate,2024-07-07
+CUST-00651,Customer_651,Chile,Valparaíso,Corporate,2023-05-24
+CUST-00652,Customer_652,Colombia,Cali,Consumer,2024-03-23
+CUST-00653,Customer_653,México,Ciudad de México,Consumer,2024-09-20
+CUST-00654,Customer_654,Argentina,Córdoba,Home Office,2023-12-01
+CUST-00655,Customer_655,Colombia,Cali,Corporate,2024-04-06
+CUST-00656,Customer_656,Perú,Lima,Consumer,2024-01-20
+CUST-00657,Customer_657,Perú,Lima,Corporate,2024-01-25
+CUST-00658,Customer_658,Colombia,Cali,Corporate,2023-03-17
+CUST-00659,Customer_659,Colombia,Cali,Consumer,2024-10-11
+CUST-00660,Customer_660,México,Puebla,Consumer,2023-04-20
+CUST-00661,Customer_661,Colombia,Bogotá,Home Office,2024-03-31
+CUST-00662,Customer_662,Chile,Valparaíso,Consumer,2023-03-31
+CUST-00663,Customer_663,México,Puebla,Consumer,2024-07-22
+CUST-00664,Customer_664,Argentina,Córdoba,Consumer,2023-04-02
+CUST-00665,Customer_665,Chile,Concepción,Consumer,2024-09-04
+CUST-00666,Customer_666,Chile,Valparaíso,Consumer,2024-02-28
+CUST-00667,Customer_667,Perú,Lima,Corporate,2024-07-26
+CUST-00668,Customer_668,México,Guadalajara,Corporate,2023-06-23
+CUST-00669,Customer_669,México,Monterrey,Consumer,2024-05-19
+CUST-00670,Customer_670,México,Ciudad de México,Consumer,2023-10-10
+CUST-00671,Customer_671,Perú,Arequipa,Consumer,2023-03-20
+CUST-00672,Customer_672,Chile,Valparaíso,Home Office,2024-10-02
+CUST-00673,Customer_673,Perú,Trujillo,Consumer,2024-04-13
+CUST-00674,Customer_674,Colombia,Medellín,Consumer,2024-02-10
+CUST-00675,Customer_675,Chile,Concepción,Consumer,2023-12-04
+CUST-00676,Customer_676,Perú,Arequipa,Consumer,2024-10-28
+CUST-00677,Customer_677,Argentina,Buenos Aires,Consumer,2024-09-09
+CUST-00678,Customer_678,México,Puebla,Consumer,2024-02-12
+CUST-00679,Customer_679,Chile,Valparaíso,Corporate,2024-10-10
+CUST-00680,Customer_680,Perú,Trujillo,Corporate,2023-11-30
+CUST-00681,Customer_681,Perú,Arequipa,Corporate,2024-02-07
+CUST-00682,Customer_682,Chile,Santiago,Home Office,2023-07-24
+CUST-00683,Customer_683,Argentina,Rosario,Consumer,2024-07-17
+CUST-00684,Customer_684,Colombia,Barranquilla,Home Office,2023-08-03
+CUST-00685,Customer_685,Perú,Arequipa,Corporate,2023-03-12
+CUST-00686,Customer_686,Perú,Trujillo,Consumer,2024-10-10
+CUST-00687,Customer_687,Chile,Santiago,Consumer,2023-06-07
+CUST-00688,Customer_688,Perú,Arequipa,Consumer,2024-09-04
+CUST-00689,Customer_689,Perú,Trujillo,Consumer,2024-06-02
+CUST-00690,Customer_690,Perú,Trujillo,Consumer,2024-01-04
+CUST-00691,Customer_691,Argentina,Rosario,Consumer,2023-03-29
+CUST-00692,Customer_692,Colombia,Medellín,Corporate,2023-12-30
+CUST-00693,Customer_693,México,Ciudad de México,Consumer,2024-10-22
+CUST-00694,Customer_694,Perú,Arequipa,Home Office,2024-03-16
+CUST-00695,Customer_695,Colombia,Bogotá,Consumer,2023-08-16
+CUST-00696,Customer_696,Argentina,Rosario,Consumer,2024-08-17
+CUST-00697,Customer_697,Argentina,Buenos Aires,Consumer,2024-02-05
+CUST-00698,Customer_698,Perú,Trujillo,Consumer,2024-05-27
+CUST-00699,Customer_699,México,Monterrey,Home Office,2024-05-09
+CUST-00700,Customer_700,Colombia,Cali,Consumer,2023-03-29
+CUST-00701,Customer_701,Colombia,Medellín,Consumer,2023-12-18
+CUST-00702,Customer_702,Perú,Lima,Consumer,2023-12-23
+CUST-00703,Customer_703,Perú,Lima,Consumer,2024-04-08
+CUST-00704,Customer_704,Chile,Santiago,Consumer,2023-04-28
+CUST-00705,Customer_705,Colombia,Cali,Consumer,2023-06-18
+CUST-00706,Customer_706,México,Guadalajara,Consumer,2023-12-05
+CUST-00707,Customer_707,Argentina,Córdoba,Home Office,2023-08-26
+CUST-00708,Customer_708,Perú,Trujillo,Consumer,2024-10-17
+CUST-00709,Customer_709,Perú,Arequipa,Consumer,2024-09-20
+CUST-00710,Customer_710,México,Puebla,Consumer,2024-02-03
+CUST-00711,Customer_711,Colombia,Medellín,Consumer,2023-03-06
+CUST-00712,Customer_712,Argentina,Buenos Aires,Corporate,2024-07-03
+CUST-00713,Customer_713,México,Monterrey,Consumer,2024-04-13
+CUST-00714,Customer_714,Colombia,Cali,Corporate,2024-05-16
+CUST-00715,Customer_715,Argentina,Rosario,Consumer,2024-02-02
+CUST-00716,Customer_716,Argentina,Córdoba,Consumer,2023-12-23
+CUST-00717,Customer_717,Chile,Valparaíso,Consumer,2023-11-01
+CUST-00718,Customer_718,Argentina,Rosario,Consumer,2023-05-18
+CUST-00719,Customer_719,Chile,Santiago,Consumer,2023-04-30
+CUST-00720,Customer_720,México,Monterrey,Corporate,2024-06-07
+CUST-00721,Customer_721,Perú,Arequipa,Consumer,2024-08-11
+CUST-00722,Customer_722,Perú,Arequipa,Consumer,2024-10-12
+CUST-00723,Customer_723,Argentina,Rosario,Home Office,2023-06-27
+CUST-00724,Customer_724,Argentina,Buenos Aires,Consumer,2023-05-24
+CUST-00725,Customer_725,México,Monterrey,Corporate,2024-09-26
+CUST-00726,Customer_726,Colombia,Cali,Home Office,2024-05-11
+CUST-00727,Customer_727,México,Guadalajara,Corporate,2024-07-29
+CUST-00728,Customer_728,Argentina,Rosario,Consumer,2024-05-18
+CUST-00729,Customer_729,Perú,Trujillo,Corporate,2024-05-15
+CUST-00730,Customer_730,México,Ciudad de México,Consumer,2023-08-14
+CUST-00731,Customer_731,Chile,Santiago,Consumer,2024-07-04
+CUST-00732,Customer_732,Chile,Santiago,Corporate,2024-08-02
+CUST-00733,Customer_733,Perú,Trujillo,Consumer,2024-08-09
+CUST-00734,Customer_734,Colombia,Cali,Corporate,2024-01-11
+CUST-00735,Customer_735,Argentina,Buenos Aires,Corporate,2024-03-27
+CUST-00736,Customer_736,Argentina,Buenos Aires,Home Office,2023-04-15
+CUST-00737,Customer_737,México,Monterrey,Corporate,2023-02-03
+CUST-00738,Customer_738,Perú,Arequipa,Consumer,2023-03-31
+CUST-00739,Customer_739,Perú,Lima,Corporate,2023-08-31
+CUST-00740,Customer_740,México,Monterrey,Corporate,2024-09-16
+CUST-00741,Customer_741,Perú,Lima,Consumer,2023-07-31
+CUST-00742,Customer_742,México,Ciudad de México,Consumer,2024-06-29
+CUST-00743,Customer_743,Chile,Concepción,Consumer,2023-11-28
+CUST-00744,Customer_744,Chile,Valparaíso,Consumer,2024-06-10
+CUST-00745,Customer_745,Colombia,Medellín,Home Office,2024-02-26
+CUST-00746,Customer_746,Colombia,Cali,Corporate,2023-05-10
+CUST-00747,Customer_747,México,Guadalajara,Consumer,2023-11-26
+CUST-00748,Customer_748,México,Puebla,Consumer,2024-08-14
+CUST-00749,Customer_749,Chile,Concepción,Consumer,2024-04-07
+CUST-00750,Customer_750,Colombia,Bogotá,Consumer,2023-10-12
+CUST-00751,Customer_751,Chile,Valparaíso,Home Office,2023-12-02
+CUST-00752,Customer_752,Argentina,Buenos Aires,Corporate,2023-04-06
+CUST-00753,Customer_753,Perú,Trujillo,Corporate,2024-01-02
+CUST-00754,Customer_754,Colombia,Barranquilla,Consumer,2024-03-15
+CUST-00755,Customer_755,México,Puebla,Consumer,2023-10-18
+CUST-00756,Customer_756,Chile,Concepción,Consumer,2024-08-02
+CUST-00757,Customer_757,Perú,Arequipa,Corporate,2023-02-19
+CUST-00758,Customer_758,Colombia,Bogotá,Consumer,2024-04-15
+CUST-00759,Customer_759,Colombia,Bogotá,Home Office,2023-06-11
+CUST-00760,Customer_760,Perú,Arequipa,Consumer,2024-03-14
+CUST-00761,Customer_761,México,Guadalajara,Corporate,2023-11-06
+CUST-00762,Customer_762,México,Monterrey,Consumer,2024-01-05
+CUST-00763,Customer_763,Chile,Santiago,Consumer,2024-10-26
+CUST-00764,Customer_764,México,Ciudad de México,Consumer,2023-11-09
+CUST-00765,Customer_765,México,Puebla,Corporate,2023-04-08
+CUST-00766,Customer_766,Colombia,Medellín,Consumer,2023-05-16
+CUST-00767,Customer_767,Argentina,Buenos Aires,Consumer,2024-03-31
+CUST-00768,Customer_768,Colombia,Bogotá,Corporate,2023-05-04
+CUST-00769,Customer_769,Perú,Trujillo,Consumer,2023-03-14
+CUST-00770,Customer_770,México,Puebla,Consumer,2023-04-15
+CUST-00771,Customer_771,Colombia,Cali,Consumer,2023-11-03
+CUST-00772,Customer_772,México,Puebla,Corporate,2023-05-17
+CUST-00773,Customer_773,México,Ciudad de México,Consumer,2023-01-09
+CUST-00774,Customer_774,Argentina,Rosario,Consumer,2023-12-26
+CUST-00775,Customer_775,México,Guadalajara,Home Office,2024-09-22
+CUST-00776,Customer_776,Perú,Lima,Consumer,2023-04-13
+CUST-00777,Customer_777,México,Ciudad de México,Consumer,2024-01-29
+CUST-00778,Customer_778,Chile,Valparaíso,Consumer,2023-05-24
+CUST-00779,Customer_779,México,Monterrey,Consumer,2023-09-12
+CUST-00780,Customer_780,Argentina,Rosario,Consumer,2024-09-14
+CUST-00781,Customer_781,Chile,Concepción,Consumer,2023-11-05
+CUST-00782,Customer_782,México,Guadalajara,Corporate,2023-10-30
+CUST-00783,Customer_783,Colombia,Medellín,Consumer,2023-04-26
+CUST-00784,Customer_784,México,Puebla,Consumer,2023-03-14
+CUST-00785,Customer_785,Argentina,Buenos Aires,Home Office,2023-11-21
+CUST-00786,Customer_786,México,Puebla,Corporate,2024-08-05
+CUST-00787,Customer_787,Perú,Arequipa,Consumer,2023-06-26
+CUST-00788,Customer_788,Perú,Lima,Consumer,2023-03-11
+CUST-00789,Customer_789,Colombia,Cali,Consumer,2023-03-03
+CUST-00790,Customer_790,Perú,Trujillo,Consumer,2024-05-28
+CUST-00791,Customer_791,Perú,Arequipa,Corporate,2023-03-26
+CUST-00792,Customer_792,Argentina,Rosario,Consumer,2023-10-12
+CUST-00793,Customer_793,Colombia,Cali,Consumer,2023-07-28
+CUST-00794,Customer_794,México,Monterrey,Consumer,2024-10-11
+CUST-00795,Customer_795,Colombia,Cali,Corporate,2023-09-02
+CUST-00796,Customer_796,Colombia,Medellín,Consumer,2024-03-20
+CUST-00797,Customer_797,Colombia,Barranquilla,Consumer,2023-02-26
+CUST-00798,Customer_798,Chile,Concepción,Corporate,2023-06-29
+CUST-00799,Customer_799,Colombia,Bogotá,Corporate,2023-01-12
+CUST-00800,Customer_800,México,Puebla,Home Office,2024-06-19
+CUST-00801,Customer_801,Argentina,Rosario,Consumer,2024-01-16
+CUST-00802,Customer_802,México,Monterrey,Corporate,2023-05-01
+CUST-00803,Customer_803,Colombia,Cali,Corporate,2023-10-06
+CUST-00804,Customer_804,Argentina,Buenos Aires,Consumer,2024-08-13
+CUST-00805,Customer_805,Colombia,Barranquilla,Consumer,2024-01-04
+CUST-00806,Customer_806,Colombia,Barranquilla,Corporate,2023-06-20
+CUST-00807,Customer_807,Chile,Santiago,Consumer,2023-04-16
+CUST-00808,Customer_808,Argentina,Rosario,Corporate,2023-08-22
+CUST-00809,Customer_809,Argentina,Buenos Aires,Consumer,2023-01-13
+CUST-00810,Customer_810,México,Ciudad de México,Consumer,2024-01-28
+CUST-00811,Customer_811,México,Guadalajara,Home Office,2023-02-06
+CUST-00812,Customer_812,Argentina,Rosario,Corporate,2024-03-05
+CUST-00813,Customer_813,México,Monterrey,Consumer,2023-11-24
+CUST-00814,Customer_814,Chile,Santiago,Consumer,2023-05-03
+CUST-00815,Customer_815,Argentina,Rosario,Home Office,2023-07-03
+CUST-00816,Customer_816,México,Ciudad de México,Home Office,2023-03-12
+CUST-00817,Customer_817,Perú,Arequipa,Corporate,2023-11-15
+CUST-00818,Customer_818,Chile,Santiago,Consumer,2023-01-09
+CUST-00819,Customer_819,Chile,Santiago,Consumer,2023-11-08
+CUST-00820,Customer_820,Argentina,Buenos Aires,Consumer,2024-08-28
+CUST-00821,Customer_821,Perú,Lima,Corporate,2024-07-13
+CUST-00822,Customer_822,México,Guadalajara,Consumer,2024-02-24
+CUST-00823,Customer_823,Colombia,Medellín,Consumer,2024-10-13
+CUST-00824,Customer_824,Colombia,Cali,Consumer,2024-01-21
+CUST-00825,Customer_825,Chile,Santiago,Consumer,2023-09-01
+CUST-00826,Customer_826,Perú,Arequipa,Home Office,2023-05-26
+CUST-00827,Customer_827,Chile,Santiago,Consumer,2023-08-26
+CUST-00828,Customer_828,Argentina,Córdoba,Corporate,2024-01-17
+CUST-00829,Customer_829,Perú,Trujillo,Consumer,2023-04-08
+CUST-00830,Customer_830,Argentina,Buenos Aires,Consumer,2024-02-08
+CUST-00831,Customer_831,Colombia,Bogotá,Consumer,2023-05-14
+CUST-00832,Customer_832,México,Monterrey,Consumer,2023-11-19
+CUST-00833,Customer_833,Perú,Trujillo,Corporate,2023-12-01
+CUST-00834,Customer_834,Chile,Valparaíso,Consumer,2023-03-18
+CUST-00835,Customer_835,México,Guadalajara,Corporate,2024-08-21
+CUST-00836,Customer_836,Colombia,Medellín,Consumer,2024-04-05
+CUST-00837,Customer_837,Perú,Arequipa,Consumer,2024-07-02
+CUST-00838,Customer_838,Chile,Santiago,Consumer,2024-04-19
+CUST-00839,Customer_839,Chile,Santiago,Consumer,2023-11-08
+CUST-00840,Customer_840,Argentina,Buenos Aires,Consumer,2023-12-02
+CUST-00841,Customer_841,México,Ciudad de México,Corporate,2023-12-31
+CUST-00842,Customer_842,Perú,Trujillo,Consumer,2023-11-03
+CUST-00843,Customer_843,Chile,Santiago,Consumer,2024-02-19
+CUST-00844,Customer_844,Perú,Trujillo,Corporate,2023-09-13
+CUST-00845,Customer_845,Colombia,Barranquilla,Consumer,2023-05-24
+CUST-00846,Customer_846,Colombia,Bogotá,Consumer,2023-08-16
+CUST-00847,Customer_847,México,Guadalajara,Corporate,2024-01-17
+CUST-00848,Customer_848,Colombia,Cali,Home Office,2023-03-18
+CUST-00849,Customer_849,Colombia,Bogotá,Consumer,2024-10-23
+CUST-00850,Customer_850,Perú,Lima,Consumer,2023-12-06
+CUST-00851,Customer_851,Colombia,Bogotá,Home Office,2023-02-21
+CUST-00852,Customer_852,México,Puebla,Corporate,2024-02-09
+CUST-00853,Customer_853,Perú,Lima,Consumer,2024-03-12
+CUST-00854,Customer_854,México,Monterrey,Consumer,2023-07-11
+CUST-00855,Customer_855,Chile,Valparaíso,Consumer,2023-06-02
+CUST-00856,Customer_856,Colombia,Medellín,Consumer,2024-05-25
+CUST-00857,Customer_857,Perú,Trujillo,Consumer,2023-03-31
+CUST-00858,Customer_858,Chile,Valparaíso,Consumer,2023-07-24
+CUST-00859,Customer_859,Argentina,Buenos Aires,Consumer,2024-07-10
+CUST-00860,Customer_860,Colombia,Barranquilla,Corporate,2024-01-03
+CUST-00861,Customer_861,Perú,Trujillo,Corporate,2023-12-19
+CUST-00862,Customer_862,Argentina,Rosario,Consumer,2023-10-04
+CUST-00863,Customer_863,México,Ciudad de México,Consumer,2023-08-13
+CUST-00864,Customer_864,Colombia,Cali,Consumer,2024-04-28
+CUST-00865,Customer_865,Argentina,Córdoba,Corporate,2023-08-27
+CUST-00866,Customer_866,México,Ciudad de México,Consumer,2023-09-04
+CUST-00867,Customer_867,Chile,Concepción,Corporate,2023-02-27
+CUST-00868,Customer_868,México,Puebla,Consumer,2023-06-27
+CUST-00869,Customer_869,México,Guadalajara,Consumer,2024-01-03
+CUST-00870,Customer_870,Argentina,Buenos Aires,Corporate,2023-12-27
+CUST-00871,Customer_871,Argentina,Rosario,Consumer,2023-07-12
+CUST-00872,Customer_872,Perú,Trujillo,Consumer,2024-05-17
+CUST-00873,Customer_873,Colombia,Bogotá,Consumer,2024-09-08
+CUST-00874,Customer_874,México,Ciudad de México,Consumer,2023-01-01
+CUST-00875,Customer_875,Chile,Concepción,Consumer,2023-05-14
+CUST-00876,Customer_876,Chile,Concepción,Consumer,2023-11-28
+CUST-00877,Customer_877,Colombia,Bogotá,Consumer,2023-05-26
+CUST-00878,Customer_878,Colombia,Cali,Home Office,2024-01-18
+CUST-00879,Customer_879,Perú,Trujillo,Consumer,2023-11-06
+CUST-00880,Customer_880,Chile,Santiago,Home Office,2024-03-23
+CUST-00881,Customer_881,Perú,Trujillo,Consumer,2024-07-29
+CUST-00882,Customer_882,Argentina,Córdoba,Consumer,2024-08-26
+CUST-00883,Customer_883,México,Puebla,Consumer,2023-10-29
+CUST-00884,Customer_884,México,Guadalajara,Corporate,2024-08-09
+CUST-00885,Customer_885,Perú,Trujillo,Consumer,2024-09-08
+CUST-00886,Customer_886,Chile,Concepción,Consumer,2024-08-02
+CUST-00887,Customer_887,Colombia,Barranquilla,Consumer,2023-03-21
+CUST-00888,Customer_888,México,Monterrey,Home Office,2023-06-21
+CUST-00889,Customer_889,Colombia,Cali,Consumer,2023-09-29
+CUST-00890,Customer_890,México,Guadalajara,Corporate,2023-12-25
+CUST-00891,Customer_891,Chile,Santiago,Corporate,2023-02-19
+CUST-00892,Customer_892,Perú,Arequipa,Corporate,2023-06-20
+CUST-00893,Customer_893,Perú,Arequipa,Corporate,2023-12-26
+CUST-00894,Customer_894,Argentina,Córdoba,Consumer,2024-05-05
+CUST-00895,Customer_895,Argentina,Rosario,Corporate,2023-08-19
+CUST-00896,Customer_896,México,Puebla,Consumer,2023-02-04
+CUST-00897,Customer_897,Chile,Santiago,Consumer,2023-04-18
+CUST-00898,Customer_898,Colombia,Cali,Consumer,2024-01-20
+CUST-00899,Customer_899,México,Ciudad de México,Consumer,2023-04-06
+CUST-00900,Customer_900,Chile,Concepción,Home Office,2024-05-09
+CUST-00901,Customer_901,Colombia,Barranquilla,Home Office,2023-06-18
+CUST-00902,Customer_902,Argentina,Córdoba,Consumer,2023-04-14
+CUST-00903,Customer_903,Chile,Santiago,Home Office,2024-02-24
+CUST-00904,Customer_904,Argentina,Rosario,Home Office,2024-07-07
+CUST-00905,Customer_905,Chile,Concepción,Consumer,2023-09-01
+CUST-00906,Customer_906,Colombia,Bogotá,Consumer,2024-07-16
+CUST-00907,Customer_907,Perú,Lima,Consumer,2023-01-04
+CUST-00908,Customer_908,Perú,Lima,Consumer,2024-10-02
+CUST-00909,Customer_909,Argentina,Córdoba,Consumer,2023-01-27
+CUST-00910,Customer_910,México,Guadalajara,Consumer,2023-03-25
+CUST-00911,Customer_911,Perú,Lima,Consumer,2024-02-12
+CUST-00912,Customer_912,Perú,Arequipa,Corporate,2023-09-29
+CUST-00913,Customer_913,Colombia,Barranquilla,Consumer,2024-01-26
+CUST-00914,Customer_914,Chile,Santiago,Consumer,2023-09-27
+CUST-00915,Customer_915,Perú,Arequipa,Consumer,2023-10-03
+CUST-00916,Customer_916,Argentina,Buenos Aires,Consumer,2023-04-10
+CUST-00917,Customer_917,Colombia,Cali,Corporate,2024-02-28
+CUST-00918,Customer_918,Argentina,Buenos Aires,Consumer,2024-02-01
+CUST-00919,Customer_919,Argentina,Córdoba,Home Office,2024-05-01
+CUST-00920,Customer_920,Argentina,Buenos Aires,Consumer,2023-03-22
+CUST-00921,Customer_921,Perú,Trujillo,Consumer,2024-08-07
+CUST-00922,Customer_922,Argentina,Rosario,Corporate,2024-09-27
+CUST-00923,Customer_923,México,Ciudad de México,Home Office,2024-04-04
+CUST-00924,Customer_924,México,Guadalajara,Home Office,2023-07-17
+CUST-00925,Customer_925,México,Ciudad de México,Consumer,2024-03-21
+CUST-00926,Customer_926,México,Guadalajara,Corporate,2023-09-22
+CUST-00927,Customer_927,Chile,Concepción,Home Office,2023-03-10
+CUST-00928,Customer_928,Colombia,Barranquilla,Consumer,2024-07-19
+CUST-00929,Customer_929,Chile,Valparaíso,Consumer,2023-01-13
+CUST-00930,Customer_930,Argentina,Rosario,Consumer,2024-03-05
+CUST-00931,Customer_931,Colombia,Barranquilla,Consumer,2024-08-03
+CUST-00932,Customer_932,Argentina,Rosario,Corporate,2023-04-13
+CUST-00933,Customer_933,Colombia,Bogotá,Corporate,2024-07-02
+CUST-00934,Customer_934,Chile,Valparaíso,Consumer,2024-11-01
+CUST-00935,Customer_935,Perú,Trujillo,Consumer,2023-02-08
+CUST-00936,Customer_936,México,Monterrey,Consumer,2024-09-25
+CUST-00937,Customer_937,Argentina,Rosario,Corporate,2023-02-09
+CUST-00938,Customer_938,Perú,Arequipa,Corporate,2023-02-20
+CUST-00939,Customer_939,Perú,Arequipa,Corporate,2023-01-21
+CUST-00940,Customer_940,Chile,Valparaíso,Consumer,2024-05-18
+CUST-00941,Customer_941,Colombia,Medellín,Consumer,2024-03-29
+CUST-00942,Customer_942,Chile,Valparaíso,Corporate,2024-09-11
+CUST-00943,Customer_943,Colombia,Medellín,Consumer,2024-02-21
+CUST-00944,Customer_944,Perú,Trujillo,Corporate,2023-02-27
+CUST-00945,Customer_945,Argentina,Buenos Aires,Consumer,2024-06-02
+CUST-00946,Customer_946,Perú,Lima,Corporate,2024-06-20
+CUST-00947,Customer_947,Argentina,Buenos Aires,Consumer,2023-07-25
+CUST-00948,Customer_948,Colombia,Medellín,Consumer,2023-02-21
+CUST-00949,Customer_949,Chile,Concepción,Consumer,2024-01-13
+CUST-00950,Customer_950,Perú,Trujillo,Consumer,2023-05-07
+CUST-00951,Customer_951,Colombia,Medellín,Consumer,2024-08-31
+CUST-00952,Customer_952,Perú,Lima,Home Office,2024-04-30
+CUST-00953,Customer_953,Argentina,Rosario,Consumer,2023-06-17
+CUST-00954,Customer_954,Chile,Concepción,Corporate,2023-04-03
+CUST-00955,Customer_955,Chile,Santiago,Consumer,2023-06-16
+CUST-00956,Customer_956,Argentina,Buenos Aires,Corporate,2024-10-24
+CUST-00957,Customer_957,México,Guadalajara,Consumer,2024-02-24
+CUST-00958,Customer_958,Argentina,Buenos Aires,Corporate,2023-01-10
+CUST-00959,Customer_959,Perú,Lima,Consumer,2024-09-07
+CUST-00960,Customer_960,Colombia,Medellín,Consumer,2023-11-09
+CUST-00961,Customer_961,Chile,Valparaíso,Corporate,2023-12-24
+CUST-00962,Customer_962,Perú,Arequipa,Consumer,2023-11-06
+CUST-00963,Customer_963,Argentina,Rosario,Consumer,2023-04-15
+CUST-00964,Customer_964,Colombia,Cali,Consumer,2024-08-31
+CUST-00965,Customer_965,Argentina,Córdoba,Consumer,2023-04-21
+CUST-00966,Customer_966,Perú,Lima,Consumer,2023-10-11
+CUST-00967,Customer_967,Chile,Valparaíso,Consumer,2024-10-29
+CUST-00968,Customer_968,Chile,Santiago,Consumer,2023-09-04
+CUST-00969,Customer_969,Colombia,Barranquilla,Corporate,2023-05-24
+CUST-00970,Customer_970,Colombia,Barranquilla,Home Office,2023-09-23
+CUST-00971,Customer_971,Perú,Arequipa,Consumer,2023-02-06
+CUST-00972,Customer_972,Argentina,Rosario,Home Office,2023-07-14
+CUST-00973,Customer_973,Chile,Concepción,Corporate,2024-07-01
+CUST-00974,Customer_974,Perú,Trujillo,Consumer,2023-11-04
+CUST-00975,Customer_975,México,Guadalajara,Consumer,2024-04-27
+CUST-00976,Customer_976,México,Monterrey,Corporate,2024-07-26
+CUST-00977,Customer_977,México,Monterrey,Corporate,2023-08-16
+CUST-00978,Customer_978,Chile,Santiago,Corporate,2023-11-11
+CUST-00979,Customer_979,Perú,Arequipa,Consumer,2024-08-22
+CUST-00980,Customer_980,Chile,Valparaíso,Corporate,2024-04-26
+CUST-00981,Customer_981,Colombia,Bogotá,Consumer,2023-07-19
+CUST-00982,Customer_982,Argentina,Buenos Aires,Corporate,2024-01-26
+CUST-00983,Customer_983,Argentina,Córdoba,Consumer,2023-06-04
+CUST-00984,Customer_984,México,Guadalajara,Consumer,2024-08-06
+CUST-00985,Customer_985,Perú,Lima,Consumer,2023-07-04
+CUST-00986,Customer_986,Colombia,Barranquilla,Consumer,2023-07-01
+CUST-00987,Customer_987,Chile,Concepción,Consumer,2024-04-07
+CUST-00988,Customer_988,Chile,Santiago,Corporate,2023-06-22
+CUST-00989,Customer_989,Argentina,Buenos Aires,Consumer,2023-04-01
+CUST-00990,Customer_990,México,Puebla,Consumer,2024-02-18
+CUST-00991,Customer_991,Perú,Arequipa,Consumer,2023-02-08
+CUST-00992,Customer_992,Argentina,Buenos Aires,Corporate,2023-01-15
+CUST-00993,Customer_993,Chile,Concepción,Consumer,2023-01-05
+CUST-00994,Customer_994,México,Guadalajara,Corporate,2023-12-19
+CUST-00995,Customer_995,Chile,Santiago,Consumer,2024-05-30
+CUST-00996,Customer_996,Argentina,Córdoba,Consumer,2023-02-16
+CUST-00997,Customer_997,Chile,Valparaíso,Consumer,2024-06-16
+CUST-00998,Customer_998,Argentina,Rosario,Consumer,2023-05-18
+CUST-00999,Customer_999,Chile,Valparaíso,Consumer,2023-07-12
+CUST-01000,Customer_1000,México,Puebla,Consumer,2023-08-18
+CUST-01001,Customer_1001,México,Guadalajara,Corporate,2024-08-26
+CUST-01002,Customer_1002,Argentina,Buenos Aires,Consumer,2024-10-28
+CUST-01003,Customer_1003,Colombia,Barranquilla,Corporate,2023-09-19
+CUST-01004,Customer_1004,Argentina,Rosario,Consumer,2023-02-19
+CUST-01005,Customer_1005,Colombia,Bogotá,Consumer,2023-04-29
+CUST-01006,Customer_1006,Perú,Arequipa,Consumer,2024-07-14
+CUST-01007,Customer_1007,Chile,Valparaíso,Corporate,2023-07-30
+CUST-01008,Customer_1008,Colombia,Cali,Consumer,2023-04-14
+CUST-01009,Customer_1009,Argentina,Córdoba,Consumer,2023-05-21
+CUST-01010,Customer_1010,Perú,Lima,Consumer,2024-09-24
+CUST-01011,Customer_1011,Colombia,Cali,Consumer,2023-04-19
+CUST-01012,Customer_1012,Perú,Lima,Consumer,2023-09-27
+CUST-01013,Customer_1013,Argentina,Buenos Aires,Consumer,2024-02-24
+CUST-01014,Customer_1014,Chile,Santiago,Consumer,2024-05-23
+CUST-01015,Customer_1015,México,Puebla,Consumer,2023-01-03
+CUST-01016,Customer_1016,Colombia,Bogotá,Home Office,2024-08-10
+CUST-01017,Customer_1017,Perú,Lima,Home Office,2024-06-07
+CUST-01018,Customer_1018,Colombia,Bogotá,Home Office,2024-10-21
+CUST-01019,Customer_1019,México,Puebla,Home Office,2023-10-31
+CUST-01020,Customer_1020,Chile,Valparaíso,Consumer,2023-06-28
+CUST-01021,Customer_1021,Colombia,Cali,Consumer,2023-11-17
+CUST-01022,Customer_1022,Perú,Trujillo,Consumer,2023-02-16
+CUST-01023,Customer_1023,Colombia,Medellín,Corporate,2023-06-24
+CUST-01024,Customer_1024,Chile,Valparaíso,Corporate,2024-09-28
+CUST-01025,Customer_1025,Chile,Concepción,Consumer,2023-12-17
+CUST-01026,Customer_1026,México,Ciudad de México,Consumer,2024-04-12
+CUST-01027,Customer_1027,Chile,Valparaíso,Corporate,2024-05-04
+CUST-01028,Customer_1028,Perú,Trujillo,Corporate,2023-06-20
+CUST-01029,Customer_1029,Colombia,Medellín,Corporate,2023-03-02
+CUST-01030,Customer_1030,México,Ciudad de México,Consumer,2024-08-27
+CUST-01031,Customer_1031,Perú,Trujillo,Corporate,2023-07-05
+CUST-01032,Customer_1032,Argentina,Córdoba,Corporate,2024-09-18
+CUST-01033,Customer_1033,Colombia,Medellín,Consumer,2024-05-14
+CUST-01034,Customer_1034,Colombia,Barranquilla,Consumer,2023-03-06
+CUST-01035,Customer_1035,Chile,Concepción,Consumer,2024-06-21
+CUST-01036,Customer_1036,Argentina,Rosario,Consumer,2023-12-13
+CUST-01037,Customer_1037,Argentina,Rosario,Corporate,2024-09-25
+CUST-01038,Customer_1038,Colombia,Barranquilla,Corporate,2023-09-12
+CUST-01039,Customer_1039,Perú,Arequipa,Corporate,2024-10-18
+CUST-01040,Customer_1040,Perú,Lima,Corporate,2024-07-25
+CUST-01041,Customer_1041,Argentina,Buenos Aires,Consumer,2023-06-10
+CUST-01042,Customer_1042,Argentina,Córdoba,Corporate,2023-06-19
+CUST-01043,Customer_1043,Colombia,Barranquilla,Consumer,2023-12-05
+CUST-01044,Customer_1044,Chile,Santiago,Consumer,2024-07-17
+CUST-01045,Customer_1045,Perú,Arequipa,Corporate,2023-03-22
+CUST-01046,Customer_1046,Perú,Arequipa,Corporate,2024-04-03
+CUST-01047,Customer_1047,Colombia,Barranquilla,Consumer,2023-05-02
+CUST-01048,Customer_1048,Perú,Trujillo,Corporate,2023-04-16
+CUST-01049,Customer_1049,Perú,Arequipa,Consumer,2024-07-16
+CUST-01050,Customer_1050,Colombia,Bogotá,Corporate,2024-09-25
+CUST-01051,Customer_1051,Chile,Concepción,Consumer,2024-11-01
+CUST-01052,Customer_1052,Perú,Arequipa,Consumer,2023-02-25
+CUST-01053,Customer_1053,México,Puebla,Consumer,2024-09-26
+CUST-01054,Customer_1054,Argentina,Córdoba,Corporate,2024-01-08
+CUST-01055,Customer_1055,Perú,Lima,Consumer,2023-08-16
+CUST-01056,Customer_1056,Colombia,Cali,Consumer,2024-10-10
+CUST-01057,Customer_1057,Chile,Concepción,Consumer,2023-04-19
+CUST-01058,Customer_1058,Colombia,Medellín,Consumer,2024-02-24
+CUST-01059,Customer_1059,Colombia,Cali,Consumer,2023-07-12
+CUST-01060,Customer_1060,Colombia,Barranquilla,Consumer,2023-07-15
+CUST-01061,Customer_1061,Chile,Santiago,Corporate,2023-02-17
+CUST-01062,Customer_1062,Argentina,Buenos Aires,Corporate,2024-04-06
+CUST-01063,Customer_1063,Perú,Trujillo,Consumer,2024-05-31
+CUST-01064,Customer_1064,México,Puebla,Consumer,2023-02-19
+CUST-01065,Customer_1065,Argentina,Córdoba,Corporate,2024-05-09
+CUST-01066,Customer_1066,Argentina,Buenos Aires,Corporate,2023-06-27
+CUST-01067,Customer_1067,México,Ciudad de México,Consumer,2024-09-06
+CUST-01068,Customer_1068,Argentina,Córdoba,Consumer,2024-01-29
+CUST-01069,Customer_1069,Perú,Trujillo,Home Office,2023-09-12
+CUST-01070,Customer_1070,Chile,Valparaíso,Home Office,2023-10-29
+CUST-01071,Customer_1071,Perú,Lima,Consumer,2024-09-08
+CUST-01072,Customer_1072,Argentina,Córdoba,Corporate,2024-07-14
+CUST-01073,Customer_1073,Chile,Concepción,Corporate,2024-07-20
+CUST-01074,Customer_1074,México,Guadalajara,Consumer,2023-10-25
+CUST-01075,Customer_1075,Chile,Concepción,Consumer,2024-10-27
+CUST-01076,Customer_1076,México,Monterrey,Corporate,2023-12-27
+CUST-01077,Customer_1077,Argentina,Córdoba,Consumer,2024-03-03
+CUST-01078,Customer_1078,Argentina,Córdoba,Corporate,2024-03-08
+CUST-01079,Customer_1079,Colombia,Bogotá,Consumer,2023-05-29
+CUST-01080,Customer_1080,Colombia,Bogotá,Consumer,2023-06-14
+CUST-01081,Customer_1081,Chile,Concepción,Consumer,2023-03-05
+CUST-01082,Customer_1082,Chile,Santiago,Corporate,2023-02-03
+CUST-01083,Customer_1083,Chile,Valparaíso,Consumer,2024-07-29
+CUST-01084,Customer_1084,México,Puebla,Consumer,2023-10-22
+CUST-01085,Customer_1085,Colombia,Barranquilla,Consumer,2023-11-17
+CUST-01086,Customer_1086,Argentina,Buenos Aires,Consumer,2023-09-15
+CUST-01087,Customer_1087,México,Puebla,Corporate,2024-10-10
+CUST-01088,Customer_1088,Chile,Concepción,Consumer,2024-09-09
+CUST-01089,Customer_1089,México,Guadalajara,Consumer,2023-07-01
+CUST-01090,Customer_1090,Colombia,Medellín,Home Office,2024-06-10
+CUST-01091,Customer_1091,Colombia,Barranquilla,Consumer,2023-10-13
+CUST-01092,Customer_1092,Argentina,Córdoba,Consumer,2024-08-21
+CUST-01093,Customer_1093,Chile,Santiago,Consumer,2023-06-08
+CUST-01094,Customer_1094,Colombia,Medellín,Home Office,2024-09-03
+CUST-01095,Customer_1095,Colombia,Cali,Consumer,2024-08-09
+CUST-01096,Customer_1096,Argentina,Córdoba,Consumer,2023-11-22
+CUST-01097,Customer_1097,Argentina,Buenos Aires,Home Office,2024-06-17
+CUST-01098,Customer_1098,Colombia,Medellín,Consumer,2024-07-03
+CUST-01099,Customer_1099,Perú,Lima,Consumer,2023-08-07
+CUST-01100,Customer_1100,Chile,Valparaíso,Consumer,2023-08-12
+CUST-01101,Customer_1101,Argentina,Rosario,Consumer,2024-07-28
+CUST-01102,Customer_1102,Colombia,Bogotá,Corporate,2024-04-01
+CUST-01103,Customer_1103,México,Guadalajara,Home Office,2023-11-25
+CUST-01104,Customer_1104,Perú,Lima,Consumer,2024-07-07
+CUST-01105,Customer_1105,Chile,Santiago,Home Office,2024-01-19
+CUST-01106,Customer_1106,Argentina,Rosario,Consumer,2023-02-14
+CUST-01107,Customer_1107,Chile,Concepción,Consumer,2024-06-10
+CUST-01108,Customer_1108,Colombia,Bogotá,Consumer,2024-07-04
+CUST-01109,Customer_1109,Argentina,Buenos Aires,Consumer,2023-08-04
+CUST-01110,Customer_1110,México,Puebla,Corporate,2023-07-30
+CUST-01111,Customer_1111,Argentina,Rosario,Corporate,2024-03-21
+CUST-01112,Customer_1112,Colombia,Medellín,Consumer,2023-12-06
+CUST-01113,Customer_1113,Colombia,Bogotá,Consumer,2023-07-02
+CUST-01114,Customer_1114,Chile,Concepción,Consumer,2023-08-22
+CUST-01115,Customer_1115,Chile,Valparaíso,Consumer,2024-10-07
+CUST-01116,Customer_1116,Perú,Arequipa,Consumer,2024-02-03
+CUST-01117,Customer_1117,Colombia,Bogotá,Consumer,2024-09-25
+CUST-01118,Customer_1118,Colombia,Bogotá,Corporate,2023-03-16
+CUST-01119,Customer_1119,Chile,Concepción,Consumer,2023-11-05
+CUST-01120,Customer_1120,Argentina,Buenos Aires,Consumer,2024-03-24
+CUST-01121,Customer_1121,Perú,Arequipa,Corporate,2023-02-01
+CUST-01122,Customer_1122,Perú,Lima,Consumer,2023-05-20
+CUST-01123,Customer_1123,Perú,Trujillo,Consumer,2024-10-11
+CUST-01124,Customer_1124,México,Monterrey,Corporate,2024-10-25
+CUST-01125,Customer_1125,Chile,Santiago,Consumer,2024-07-22
+CUST-01126,Customer_1126,México,Ciudad de México,Consumer,2024-08-09
+CUST-01127,Customer_1127,Argentina,Córdoba,Consumer,2023-03-29
+CUST-01128,Customer_1128,Chile,Santiago,Corporate,2023-12-19
+CUST-01129,Customer_1129,México,Puebla,Home Office,2024-06-08
+CUST-01130,Customer_1130,México,Guadalajara,Consumer,2024-09-23
+CUST-01131,Customer_1131,Chile,Santiago,Consumer,2024-08-03
+CUST-01132,Customer_1132,Colombia,Barranquilla,Consumer,2023-03-16
+CUST-01133,Customer_1133,Chile,Concepción,Consumer,2023-04-11
+CUST-01134,Customer_1134,México,Puebla,Home Office,2024-01-01
+CUST-01135,Customer_1135,México,Guadalajara,Consumer,2024-09-26
+CUST-01136,Customer_1136,Colombia,Medellín,Consumer,2024-04-06
+CUST-01137,Customer_1137,Chile,Concepción,Corporate,2024-08-21
+CUST-01138,Customer_1138,México,Monterrey,Corporate,2024-03-14
+CUST-01139,Customer_1139,México,Ciudad de México,Consumer,2023-08-15
+CUST-01140,Customer_1140,Perú,Arequipa,Corporate,2023-05-18
+CUST-01141,Customer_1141,Chile,Valparaíso,Consumer,2024-01-03
+CUST-01142,Customer_1142,Chile,Valparaíso,Consumer,2023-06-29
+CUST-01143,Customer_1143,Argentina,Buenos Aires,Corporate,2023-05-24
+CUST-01144,Customer_1144,Argentina,Buenos Aires,Consumer,2024-10-03
+CUST-01145,Customer_1145,Colombia,Bogotá,Corporate,2024-06-03
+CUST-01146,Customer_1146,Colombia,Barranquilla,Corporate,2023-08-06
+CUST-01147,Customer_1147,Colombia,Cali,Consumer,2024-07-06
+CUST-01148,Customer_1148,Perú,Trujillo,Corporate,2024-01-10
+CUST-01149,Customer_1149,Perú,Lima,Corporate,2024-08-26
+CUST-01150,Customer_1150,Chile,Santiago,Consumer,2024-06-06
+CUST-01151,Customer_1151,Colombia,Barranquilla,Consumer,2023-01-11
+CUST-01152,Customer_1152,México,Guadalajara,Corporate,2023-05-24
+CUST-01153,Customer_1153,Perú,Lima,Consumer,2024-08-02
+CUST-01154,Customer_1154,México,Puebla,Home Office,2023-02-11
+CUST-01155,Customer_1155,México,Puebla,Consumer,2023-09-28
+CUST-01156,Customer_1156,Chile,Santiago,Consumer,2023-07-31
+CUST-01157,Customer_1157,Argentina,Córdoba,Consumer,2024-04-10
+CUST-01158,Customer_1158,Colombia,Bogotá,Home Office,2023-11-28
+CUST-01159,Customer_1159,Colombia,Cali,Corporate,2023-09-27
+CUST-01160,Customer_1160,Argentina,Rosario,Consumer,2024-01-21
+CUST-01161,Customer_1161,Perú,Arequipa,Consumer,2023-03-21
+CUST-01162,Customer_1162,Argentina,Córdoba,Consumer,2023-08-17
+CUST-01163,Customer_1163,Argentina,Córdoba,Consumer,2023-12-20
+CUST-01164,Customer_1164,Perú,Arequipa,Corporate,2023-01-07
+CUST-01165,Customer_1165,Argentina,Buenos Aires,Consumer,2023-08-24
+CUST-01166,Customer_1166,Colombia,Cali,Consumer,2023-07-11
+CUST-01167,Customer_1167,México,Monterrey,Consumer,2023-05-02
+CUST-01168,Customer_1168,México,Puebla,Corporate,2023-04-27
+CUST-01169,Customer_1169,Perú,Trujillo,Consumer,2023-08-04
+CUST-01170,Customer_1170,Argentina,Buenos Aires,Consumer,2024-02-25
+CUST-01171,Customer_1171,Colombia,Medellín,Consumer,2024-08-10
+CUST-01172,Customer_1172,Argentina,Buenos Aires,Consumer,2024-06-08
+CUST-01173,Customer_1173,Colombia,Medellín,Consumer,2023-09-22
+CUST-01174,Customer_1174,México,Puebla,Consumer,2024-07-31
+CUST-01175,Customer_1175,Colombia,Cali,Home Office,2023-08-10
+CUST-01176,Customer_1176,Perú,Trujillo,Home Office,2024-05-08
+CUST-01177,Customer_1177,México,Guadalajara,Corporate,2024-09-07
+CUST-01178,Customer_1178,México,Guadalajara,Consumer,2024-06-07
+CUST-01179,Customer_1179,Chile,Santiago,Corporate,2023-12-17
+CUST-01180,Customer_1180,Perú,Trujillo,Consumer,2023-08-24
+CUST-01181,Customer_1181,Perú,Arequipa,Consumer,2023-01-17
+CUST-01182,Customer_1182,México,Puebla,Corporate,2024-09-12
+CUST-01183,Customer_1183,Colombia,Medellín,Consumer,2024-09-21
+CUST-01184,Customer_1184,Argentina,Buenos Aires,Corporate,2024-06-28
+CUST-01185,Customer_1185,Argentina,Buenos Aires,Consumer,2023-05-14
+CUST-01186,Customer_1186,Argentina,Rosario,Corporate,2024-10-26
+CUST-01187,Customer_1187,Perú,Trujillo,Consumer,2023-02-14
+CUST-01188,Customer_1188,Argentina,Córdoba,Consumer,2024-05-08
+CUST-01189,Customer_1189,Perú,Arequipa,Consumer,2024-08-12
+CUST-01190,Customer_1190,Colombia,Barranquilla,Consumer,2024-05-03
+CUST-01191,Customer_1191,México,Ciudad de México,Consumer,2024-07-10
+CUST-01192,Customer_1192,Perú,Arequipa,Consumer,2023-01-08
+CUST-01193,Customer_1193,Argentina,Rosario,Consumer,2023-01-08
+CUST-01194,Customer_1194,Perú,Trujillo,Consumer,2023-11-20
+CUST-01195,Customer_1195,Perú,Arequipa,Consumer,2024-03-12
+CUST-01196,Customer_1196,Argentina,Córdoba,Consumer,2024-07-02
+CUST-01197,Customer_1197,Perú,Trujillo,Consumer,2023-10-10
+CUST-01198,Customer_1198,Perú,Lima,Consumer,2024-07-24
+CUST-01199,Customer_1199,Perú,Lima,Consumer,2024-07-22
+CUST-01200,Customer_1200,Perú,Arequipa,Home Office,2024-08-14
